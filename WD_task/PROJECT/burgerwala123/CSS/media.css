@@ -1,0 +1,292 @@
+@media only screen and (min-width:300px) and (max-width: 420px)
+{
+  .s3putimage
+{  height: 300px;
+  width: 300px;
+  background: black;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-left: -10px;
+ /* display: none ;*/
+}
+
+
+.bestburger
+
+{
+  
+  font-family: archivo;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+
+}
+
+.s3text3
+{
+  color: white;
+  font-size: 16px;
+  padding-top: 0;
+  text-align: justify;
+}
+
+.s3order_now 
+{
+
+  width: 230px;
+  background:white; 
+  font-size: 12px;
+  color: #f64b3c;
+  border-radius: 25px;
+  padding: 5px 0;
+  margin-bottom: 50px;
+  transition: 0.5s;
+}
+
+
+
+.
+
+/*section 4*/
+.section4
+{
+  height: auto;
+  width: 100%;
+  background:#f6eedf;
+  padding-left: -50px;
+  margin: auto;
+}
+
+.sec4img
+{
+  
+  padding: 100px 20px 100px 0;
+
+
+}
+
+.s4putimage
+{  height: 300px;
+  width: 300px;
+  background: black;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-left: 30px;
+}
+.s4putimage:hover
+{
+  filter:brightness(140%) ;
+}
+.sec4text
+{
+  margin: auto;
+  padding-left: 40px;
+}
+
+.s4content
+{
+  width: 60%;
+  margin-left: 0px;
+  margin-top: 80px;
+  
+}
+.bestburger
+
+{
+    color: #f64b3c;
+  font-family: archivo;
+  font-weight: bold;
+  font-size: 40px;
+
+}
+
+.s4text3
+{
+    color: #f64b3c;
+  font-size: 16px;
+  
+  text-align: justify;
+}
+
+.s4order_now 
+{
+
+  width: 230px;
+  background:#f64b3c; 
+  font-size: 12px;
+  color: white;
+  border-radius: 25px;
+  padding: 5px 0;
+  margin-bottom: 50px;
+  transition: 0.5s;
+}
+.s4order_now:hover
+{
+  color:#f64b3c;
+  background:white;
+  
+}
+
+
+
+
+footer 
+{
+  background: black;
+  width: 103%;
+  color: white;
+  font-family: Archivo;
+  padding: 150px 20px; 
+  text-align: center; 
+}
+
+footer > .f1 >p
+{
+  margin-top: 10px;
+  margin-left: 45px;
+  width: 70%;
+  text-align: center;
+}
+
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+  .caseback 
+  {
+       font-size: 40px;
+       
+  }
+  .text1
+{
+	font-size: 20px;
+	
+}
+
+
+.section8 .inputtext
+{
+  padding: 10px 100px  10px 20px;
+  border-radius: 25px 25px 25px 25px;
+  border: transparent;
+}
+
+.section8 .inputsubmit
+{
+  padding: 10px 20px  10px 20px;
+  border-radius: 25px 25px 25px 25px;
+  border: 0.5px solid #f64b3c;
+  background: #f64b3c;
+  color: white;
+}
+
+
+@media only screen and (max-width: 700px) {
+  .caseback 
+  {
+       font-size: 40px;
+       
+  }
+  .text1
+{
+  font-size: 20px;
+  
+}
+
+.section8 .inputtext
+{
+  padding: 10px 100px  10px 20px;
+    border-radius: 25px 25px 25px 25px;
+  border: transparent;
+}
+
+.section8 .inputsubmit
+{
+  padding: 10px 20px  10px 20px;
+     border-radius: 25px 25px 25px 25px;
+  border: 0.5px solid #f64b3c;
+  background: #f64b3c;
+  color: white;
+}
+
+footer > .f2 > a > p,
+footer > .f3 > a > p,
+footer > .f4 > a > p
+{
+	margin-top: 10px;
+}
+
+.h3
+{
+  margin-top: 20px;
+	margin-bottom: 10px;
+  text-decoration: underline;
+}
+}
+
+@media only screen and (max-width:750px)
+{
+  .section8 .inputtext
+{
+  padding: 10px 100px  10px 20px;
+  border-radius: 25px 25px 25px 25px;
+  border: transparent;
+}
+
+.section8 .inputsubmit
+{
+  padding: 10px 20px  10px 20px;
+  border-radius: 25px 25px 25px 25px;
+  border: 0.5px solid #f64b3c;
+  background: #f64b3c;
+  color: white;
+}
+
+/*.s3putimage
+{   height: 460px;
+  width: 450px;
+  background: black;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-left: -25px;
+}
+
+
+.s4putimage
+{   height: 460px;
+	width: 450px;
+	background: black;
+	border-radius: 50%;
+	overflow: hidden;
+	margin-left: 15px;
+}*/
+
+footer > .f2 > a > p,
+footer > .f3 > a > p,
+footer > .f4 > a > p
+{
+	margin-top: 10px;
+}
+
+.h3
+{
+  margin-top: 20px;
+	margin-bottom: 10px;
+  text-decoration: underline;
+}
+
+}
+/*@media only screen and (min-width:300px)
+{
+ 
+
+.s3putimage
+{   height: 360px;
+  width: 350px;
+  background: black;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-left: -25px;
+}*/

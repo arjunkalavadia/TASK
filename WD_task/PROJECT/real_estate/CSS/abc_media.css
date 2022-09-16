@@ -1,0 +1,4598 @@
+@media only screen and (max-width: 968px)
+
+{ 
+
+
+
+
+
+/*=========== header1 start ==========*/
+.header1{height: auto;
+		width: 100%;
+		background: #262626;
+		display: flex;
+		flex-wrap: wrap ;
+		position: relative; }
+
+
+.header1 .logo{	width:100%;
+				height: 100%;
+				padding-top: 15px;
+				/*background: coral;*/
+				
+				}
+
+.header1 .buynow{	width:100%;
+				height: 100%;
+				padding-top: 10px;
+				/*padding-left: 630px;*/
+				/*background: lightcyan;*/
+				}
+
+
+.header1 .buynow a {	background: #7aa93c;
+				    	text-decoration: none;
+				    	color: white;
+				    	font-size: 17px;
+				    	padding: 8px 18px;
+				    	border-radius:25px ;
+				    	position: absolute;
+						right: 180px;
+						top: 2px;
+				    }
+				
+/*========== header1 end ========== */
+
+/*========== header2 start ========== */
+
+.header2{height: auto;
+		width: 100%;
+		/*background: lightcoral;*/
+		background: rgba(0,0,0,.2) ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+/*===================================================================*/
+.header2 .usd { height: 55px;
+		        width: 33.33%;
+		        /*background: black; */
+		    	text-align: center;
+		    	padding-top: 15px;}
+
+
+.header2 .usd a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .usd a i{ color: lightgray ;}
+
+/*===============================================================================*/
+
+.header2 .sqft { height: 55px;
+		        width: 33.33%;
+		        /*background: lightblue;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .sqft a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .sqft a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .eng { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcyan;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .eng a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .eng a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+.header2 .phone { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcoral;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .phone a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 15px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .phone a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .icon { height: 55px;
+				 width: 33.33%;
+ 				/*background: black;*/
+ 				text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .icon a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .icon a i{ color: lightgray ;}
+/*=========================================================================================*/
+ .header2 .login { height: 55px;
+ 				 width: 33.33%;
+ 				 /*background: lightpink;*/
+ 				 text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .login a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .login a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+
+/*===================================header2 end==========================================*/
+
+/*===================================header3 start==========================================*/
+
+.header3{height: 60px;
+		width: 100%;
+		background: transparent ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+.header3 .c-name{height: 60px;
+		width: 100%;
+		/*background: pink ;*/}
+										
+.header3 .link{height: auto;
+		width: 100%;
+		background: transparent ;}
+
+.header3 .link .main-ul .mainli a{ padding: 0px 15px;
+							    	text-decoration: none;
+							    	color: white;
+							    	font-weight: 600;
+							    	font-size: 13px; 
+							    	 }
+
+
+
+
+/*============================== header3 end ====================*/
+/*=============================== header4 start ==================*/
+
+
+.header4  { height: auto;
+			width: 100%;
+			background:url(http://realtyspace.codefactory47.com/app/uploads/revslider/RealtyspaceSlider11/banner-1.jpg?id=215);          background-size: 100% 100%;
+			display: flex;
+			flex-wrap: wrap;
+			 }
+/*===========================================================*/
+.header4 .h4left{ height: 100%;
+				  width: 100%;
+				  /*background: lightgray;*/
+				  padding-left: 100px;
+				margin-top: 30px;				}
+
+
+.header4 .h4left h1{ color: white; 
+					font-size: 50px;
+					font-weight: 800;}
+
+
+
+
+
+/*==============================================================================*/
+.header4 .h4right{ height: 100%;
+				  width: 100%;
+				  /*background: lightgreen;*/
+				}
+
+
+ .h4right-bg{height: 670px;
+			width: 70%;
+			border: 1px solid green;
+			background: rgba(255, 255, 255, 0.4);
+			margin-left: 100PX;
+			margin-top: 20px;
+			font-weight: 600;
+			padding-left: 40px;
+			padding-top: 10px;
+			margin-bottom: 10px; }
+
+/*==================================== header4 end=================================*/
+
+
+.A{ margin-top: 500px; }
+.D{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.D1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+
+
+.E{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.E1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+/*========================================================================*/	
+
+.F{height: auto ; 
+ 	background: white;
+ 	/*border: 1px solid red;*/
+ 	display: flex;
+ 	flex-wrap: wrap; }
+
+ .F-image{ ; 
+ 	width: 100%;
+ 	height: 500px;
+ 	margin: 20px;
+ 	}
+
+ .F-text{ ; 
+ 	width: 100%;
+ 	height: 750px;
+ 	/*background: white;*/
+ 	/*border: 1px solid green; */ }
+
+
+ 	/*===============================================================================	 */
+ 	
+
+.H{ height: 100px;
+			width: 90%;
+			text-align: center;
+			/*padding: 30px;*/
+		    color: #2c3e50;
+		    font-size: 13px;
+		 		margin-top: -30px;
+		    margin-bottom: 70px;}
+
+ .I{height: auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	} 
+
+
+.I1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 40px;}
+
+.I1-IMAGE img{ height: 60%;
+			width: 100%; }
+
+
+.I1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			text-decoration: none;
+			}
+
+
+/*==============================================================================*/
+.K{height:auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    display: flex;
+    flex-wrap: wrap;} 
+
+.K1{height:100%;
+	width: 100%;
+	/*border: 1px solid blue;*/
+	margin-left: 50px;
+	margin-right: 40px;}
+
+
+.K1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 22px;
+			color: #2c3e50;
+			text-align: left;
+			/*border: 1px solid blue; */
+			margin-bottom: 15px;
+		font-weight: 600;}
+
+.K1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 8px;
+			color: #2c3e50;
+			font-size: 14px;
+			text-align: left;
+			margin-bottom: -5px;}
+.K1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			padding-left:130px;
+			margin-bottom: 30px;
+			padding-bottom: 20px;
+			/*border: 1px solid blue;*/
+			text-decoration: none;}
+
+/*==========================================================================*/
+.SEE-MORE a{ border: 1px solid #2c3e50;
+	margin-left: 37%;
+	color: #2c3e50;
+padding: 4px 15px;
+text-decoration: none;
+margin-top: 10%;
+margin-bottom: 10px;}
+
+/*==============================================================================*/
+.L{height: auto;
+	width: 100%;
+	margin: auto;
+	margin-top: 20px;
+	color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-achievement.jpg?id=136);
+	background-size: 100% 100%;
+	} 
+
+
+.L1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 20px;
+margin-top: 20px;}
+
+.L1-IMAGE i{ height: 30%;
+			width: 30%;
+			margin-left: 100px; 
+			font-size: 60px;
+			color: white;}
+
+.L1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 42px;
+			color: #f3bc65;
+			text-align: center;
+			font-weight: 50;
+			margin: 30px 0 10px -10px;
+			/*border: 1px solid blue; */}
+
+.L1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 5px;
+			color: #f3bc65;
+			font-size: 14px;
+			text-align: center;}
+
+
+
+.L2,.L3,.L4{height:100%;
+	width: 20%;
+	/*border: 1px solid blue;*/
+margin-right: 40px;}
+
+
+/*=============================================*/
+.M,.R{ height: 80px;
+	width: 100%;
+	/*border: 1px solid red;*/
+	text-align: center;
+	line-height: 80px;
+	font-size: 46px;
+    color: #2c3e50;
+    font-weight: 600;
+margin-top: 30px;
+margin-bottom: 30px;}	
+
+.N,.S{ height: 100px;
+	width: 90%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin: auto;}
+
+.O{ height:100px;
+	width: 50%
+	border: 1px solid blue;
+	color: #2c3e50;
+   	margin: auto;
+	display: flex;
+	padding-left: 35%;
+
+}
+
+
+.O-IMAGE{ height: 100px;
+	width: 25%;
+	/*border: 1px solid grey;*/
+	text-align: right;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-top: -20px;}
+
+.O-TEXT{ height: 100px;
+	width: 25%;
+	/*border: 1px solid greenyellow;*/
+	text-align: left;
+	padding-top: 35px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-left:80px;}
+
+.P{ height: 150px;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	/*padding: 0 30px;*/
+    color: #0ba;
+  font-style: italic;
+    /*font-size: 13px;*/
+	margin: auto;}
+
+.Q,.T {display: none	;}
+/*=====================================================*/
+.U{ height: auto;
+    width: 100%;
+    background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-footer.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    flex-wrap: wrap; }
+
+.U1{ height: 100%;
+     width: 0%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+
+.U2{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+ .U21{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+   }
+ .U22{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 30px;
+
+   }
+
+   .U22 a{ color: #bebebe;
+       text-decoration: none; 
+     word-spacing: 5px;}
+
+ .U23{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     
+   
+   }
+
+.U21 a i{ color: #0ba;
+     font-size: 25px; 
+     text-align: left;
+     padding-right: 40px;}
+
+.cr{color:  #bebebe;
+		margin-top: 170px;
+		font-size: 12px;}
+   
+
+.U3 { height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+
+   }
+   .U31{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+ /*  }
+ .U32{ height: 15%;
+     width: 100%;
+     border: 1px solid greenyellow;
+     color: #bebebe;
+     padding-top: 30px;
+*/
+   }
+
+
+   .U32{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 10px;
+     }
+
+.U33{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: -50px;
+     margin-top: -60px;
+     padding-left: 20px;
+     }
+
+.U4{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+
+     /*border: 1px solid greenyellow;*/
+   }
+
+   .U41{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;}
+
+    .U42{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 16px;
+     margin-bottom: 10px;}
+
+     .U42 a{ 	text-decoration: none;
+     					border: 1px solid #bebebe ; 
+							color: #bebebe;
+							padding: 8px 15px;
+
+     				}
+
+
+
+.U5{ height: 100%;
+     width: 0%;
+     /*border: 1px solid greenyellow;*/
+   }
+
+
+}
+
+
+@media only screen and (extra small devices - screen width less than 576px){/*=========== header1 start ==========*/
+.header1{height: auto;
+		width: 100%;
+		background: #262626;
+		display: flex;
+		flex-wrap: wrap ;
+		position: relative; }
+
+
+.header1 .logo{	width:100%;
+				height: 100%;
+				padding-top: 15px;
+				/*background: coral;*/
+				
+				}
+
+.header1 .buynow{	width:100%;
+				height: 100%;
+				padding-top: 10px;
+				/*padding-left: 630px;*/
+				/*background: lightcyan;*/
+				}
+
+
+.header1 .buynow a {	background: #7aa93c;
+				    	text-decoration: none;
+				    	color: white;
+				    	font-size: 17px;
+				    	padding: 8px 18px;
+				    	border-radius:25px ;
+				    	position: absolute;
+						right: 180px;
+						top: 2px;
+				    }
+				
+/*========== header1 end ========== */
+
+/*========== header2 start ========== */
+
+.header2{height: auto;
+		width: 100%;
+		/*background: lightcoral;*/
+		background: rgba(0,0,0,.2) ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+/*===================================================================*/
+.header2 .usd { height: 55px;
+		        width: 33.33%;
+		        /*background: black; */
+		    	text-align: center;
+		    	padding-top: 15px;}
+
+
+.header2 .usd a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .usd a i{ color: lightgray ;}
+
+/*===============================================================================*/
+
+.header2 .sqft { height: 55px;
+		        width: 33.33%;
+		        /*background: lightblue;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .sqft a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .sqft a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .eng { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcyan;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .eng a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .eng a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+.header2 .phone { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcoral;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .phone a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 15px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .phone a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .icon { height: 55px;
+				 width: 33.33%;
+ 				/*background: black;*/
+ 				text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .icon a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .icon a i{ color: lightgray ;}
+/*=========================================================================================*/
+ .header2 .login { height: 55px;
+ 				 width: 33.33%;
+ 				 /*background: lightpink;*/
+ 				 text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .login a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .login a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+
+/*===================================header2 end==========================================*/
+
+/*===================================header3 start==========================================*/
+
+.header3{height: 60px;
+		width: 100%;
+		background: transparent ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+.header3 .c-name{height: 60px;
+		width: 100%;
+		/*background: pink ;*/}
+										
+.header3 .link{height: auto;
+		width: 100%;
+		background: transparent ;}
+
+.header3 .link .main-ul .mainli a{ padding: 0px 15px;
+							    	text-decoration: none;
+							    	color: white;
+							    	font-weight: 600;
+							    	font-size: 13px; 
+							    	 }
+
+
+
+
+/*============================== header3 end ====================*/
+/*=============================== header4 start ==================*/
+
+
+.header4  { height: auto;
+			width: 100%;
+			background:url(http://realtyspace.codefactory47.com/app/uploads/revslider/RealtyspaceSlider11/banner-1.jpg?id=215);          background-size: 100% 100%;
+			display: flex;
+			flex-wrap: wrap;
+			 }
+/*===========================================================*/
+.header4 .h4left{ height: 100%;
+				  width: 100%;
+				  /*background: lightgray;*/
+				  padding-left: 100px;
+				margin-top: 30px;				}
+
+
+.header4 .h4left h1{ color: white; 
+					font-size: 50px;
+					font-weight: 800;}
+
+
+
+
+
+/*==============================================================================*/
+.header4 .h4right{ height: 100%;
+				  width: 100%;
+				  /*background: lightgreen;*/
+				}
+
+
+ .h4right-bg{height: 670px;
+			width: 70%;
+			border: 1px solid green;
+			background: rgba(255, 255, 255, 0.4);
+			margin-left: 100PX;
+			margin-top: 20px;
+			font-weight: 600;
+			padding-left: 40px;
+			padding-top: 10px;
+			margin-bottom: 10px; }
+
+/*==================================== header4 end=================================*/
+
+
+.A{ margin-top: 500px; }
+.D{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.D1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+
+
+.E{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.E1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+/*========================================================================*/	
+
+.F{height: auto ; 
+ 	background: white;
+ 	/*border: 1px solid red;*/
+ 	display: flex;
+ 	flex-wrap: wrap; }
+
+ .F-image{ ; 
+ 	width: 100%;
+ 	height: 500px;
+ 	margin: 20px;
+ 	}
+
+ .F-text{ ; 
+ 	width: 100%;
+ 	height: 750px;
+ 	/*background: white;*/
+ 	/*border: 1px solid green; */ }
+
+
+ 	/*===============================================================================	 */
+ 	
+
+.H{ height: 100px;
+			width: 90%;
+			text-align: center;
+			/*padding: 30px;*/
+		    color: #2c3e50;
+		    font-size: 13px;
+		 		margin-top: -30px;
+		    margin-bottom: 70px;}
+
+ .I{height: auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	} 
+
+
+.I1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 40px;}
+
+.I1-IMAGE img{ height: 60%;
+			width: 100%; }
+
+
+.I1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			text-decoration: none;
+			}
+
+
+/*==============================================================================*/
+.K{height:auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    display: flex;
+    flex-wrap: wrap;} 
+
+.K1{height:100%;
+	width: 100%;
+	/*border: 1px solid blue;*/
+	margin-left: 50px;
+	margin-right: 40px;}
+
+
+.K1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 22px;
+			color: #2c3e50;
+			text-align: left;
+			/*border: 1px solid blue; */
+			margin-bottom: 15px;
+		font-weight: 600;}
+
+.K1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 8px;
+			color: #2c3e50;
+			font-size: 14px;
+			text-align: left;
+			margin-bottom: -5px;}
+.K1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			padding-left:130px;
+			margin-bottom: 30px;
+			padding-bottom: 20px;
+			/*border: 1px solid blue;*/
+			text-decoration: none;}
+
+/*==========================================================================*/
+.SEE-MORE a{ border: 1px solid #2c3e50;
+	margin-left: 37%;
+	color: #2c3e50;
+padding: 4px 15px;
+text-decoration: none;
+margin-top: 10%;
+margin-bottom: 10px;}
+
+/*==============================================================================*/
+.L{height: auto;
+	width: 100%;
+	margin: auto;
+	margin-top: 20px;
+	color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-achievement.jpg?id=136);
+	background-size: 100% 100%;
+	} 
+
+
+.L1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 20px;
+margin-top: 20px;}
+
+.L1-IMAGE i{ height: 30%;
+			width: 30%;
+			margin-left: 100px; 
+			font-size: 60px;
+			color: white;}
+
+.L1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 42px;
+			color: #f3bc65;
+			text-align: center;
+			font-weight: 50;
+			margin: 30px 0 10px -10px;
+			/*border: 1px solid blue; */}
+
+.L1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 5px;
+			color: #f3bc65;
+			font-size: 14px;
+			text-align: center;}
+
+
+
+.L2,.L3,.L4{height:100%;
+	width: 20%;
+	/*border: 1px solid blue;*/
+margin-right: 40px;}
+
+
+/*=============================================*/
+.M,.R{ height: 80px;
+	width: 100%;
+	/*border: 1px solid red;*/
+	text-align: center;
+	line-height: 80px;
+	font-size: 46px;
+    color: #2c3e50;
+    font-weight: 600;
+margin-top: 30px;
+margin-bottom: 30px;}	
+
+.N,.S{ height: 100px;
+	width: 90%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin: auto;}
+
+.O{ height:100px;
+	width: 50%
+	border: 1px solid blue;
+	color: #2c3e50;
+   	margin: auto;
+	display: flex;
+	padding-left: 35%;
+
+}
+
+
+.O-IMAGE{ height: 100px;
+	width: 25%;
+	/*border: 1px solid grey;*/
+	text-align: right;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-top: -20px;}
+
+.O-TEXT{ height: 100px;
+	width: 25%;
+	/*border: 1px solid greenyellow;*/
+	text-align: left;
+	padding-top: 35px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-left:80px;}
+
+.P{ height: 150px;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	/*padding: 0 30px;*/
+    color: #0ba;
+  font-style: italic;
+    /*font-size: 13px;*/
+	margin: auto;}
+
+.Q,.T {display: none	;}
+/*=====================================================*/
+.U{ height: auto;
+    width: 100%;
+    background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-footer.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    flex-wrap: wrap; }
+
+.U1{ height: 100%;
+     width: 0%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+
+.U2{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+ .U21{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+   }
+ .U22{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 30px;
+
+   }
+
+   .U22 a{ color: #bebebe;
+       text-decoration: none; 
+     word-spacing: 5px;}
+
+ .U23{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     
+   
+   }
+
+.U21 a i{ color: #0ba;
+     font-size: 25px; 
+     text-align: left;
+     padding-right: 40px;}
+
+.cr{color:  #bebebe;
+		margin-top: 170px;
+		font-size: 12px;}
+   
+
+.U3 { height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+
+   }
+   .U31{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+ /*  }
+ .U32{ height: 15%;
+     width: 100%;
+     border: 1px solid greenyellow;
+     color: #bebebe;
+     padding-top: 30px;
+*/
+   }
+
+
+   .U32{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 10px;
+     }
+
+.U33{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: -50px;
+     margin-top: -60px;
+     padding-left: 20px;
+     }
+
+.U4{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+
+     /*border: 1px solid greenyellow;*/
+   }
+
+   .U41{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;}
+
+    .U42{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 16px;
+     margin-bottom: 10px;}
+
+     .U42 a{ 	text-decoration: none;
+     					border: 1px solid #bebebe ; 
+							color: #bebebe;
+							padding: 8px 15px;
+
+     				}
+
+
+
+.U5{ height: 100%;
+     width: 0%;
+     /*border: 1px solid greenyellow;*/
+   }
+}
+
+  @media only screen and  (small devices - screen width equal to or greater than 576px){/*=========== header1 start ==========*/
+.header1{height: auto;
+		width: 100%;
+		background: #262626;
+		display: flex;
+		flex-wrap: wrap ;
+		position: relative; }
+
+
+.header1 .logo{	width:100%;
+				height: 100%;
+				padding-top: 15px;
+				/*background: coral;*/
+				
+				}
+
+.header1 .buynow{	width:100%;
+				height: 100%;
+				padding-top: 10px;
+				/*padding-left: 630px;*/
+				/*background: lightcyan;*/
+				}
+
+
+.header1 .buynow a {	background: #7aa93c;
+				    	text-decoration: none;
+				    	color: white;
+				    	font-size: 17px;
+				    	padding: 8px 18px;
+				    	border-radius:25px ;
+				    	position: absolute;
+						right: 180px;
+						top: 2px;
+				    }
+				
+/*========== header1 end ========== */
+
+/*========== header2 start ========== */
+
+.header2{height: auto;
+		width: 100%;
+		/*background: lightcoral;*/
+		background: rgba(0,0,0,.2) ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+/*===================================================================*/
+.header2 .usd { height: 55px;
+		        width: 33.33%;
+		        /*background: black; */
+		    	text-align: center;
+		    	padding-top: 15px;}
+
+
+.header2 .usd a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .usd a i{ color: lightgray ;}
+
+/*===============================================================================*/
+
+.header2 .sqft { height: 55px;
+		        width: 33.33%;
+		        /*background: lightblue;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .sqft a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .sqft a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .eng { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcyan;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .eng a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .eng a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+.header2 .phone { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcoral;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .phone a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 15px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .phone a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .icon { height: 55px;
+				 width: 33.33%;
+ 				/*background: black;*/
+ 				text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .icon a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .icon a i{ color: lightgray ;}
+/*=========================================================================================*/
+ .header2 .login { height: 55px;
+ 				 width: 33.33%;
+ 				 /*background: lightpink;*/
+ 				 text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .login a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .login a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+
+/*===================================header2 end==========================================*/
+
+/*===================================header3 start==========================================*/
+
+.header3{height: 60px;
+		width: 100%;
+		background: transparent ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+.header3 .c-name{height: 60px;
+		width: 100%;
+		/*background: pink ;*/}
+										
+.header3 .link{height: auto;
+		width: 100%;
+		background: transparent ;}
+
+.header3 .link .main-ul .mainli a{ padding: 0px 15px;
+							    	text-decoration: none;
+							    	color: white;
+							    	font-weight: 600;
+							    	font-size: 13px; 
+							    	 }
+
+
+
+
+/*============================== header3 end ====================*/
+/*=============================== header4 start ==================*/
+
+
+.header4  { height: auto;
+			width: 100%;
+			background:url(http://realtyspace.codefactory47.com/app/uploads/revslider/RealtyspaceSlider11/banner-1.jpg?id=215);          background-size: 100% 100%;
+			display: flex;
+			flex-wrap: wrap;
+			 }
+/*===========================================================*/
+.header4 .h4left{ height: 100%;
+				  width: 100%;
+				  /*background: lightgray;*/
+				  padding-left: 100px;
+				margin-top: 30px;				}
+
+
+.header4 .h4left h1{ color: white; 
+					font-size: 50px;
+					font-weight: 800;}
+
+
+
+
+
+/*==============================================================================*/
+.header4 .h4right{ height: 100%;
+				  width: 100%;
+				  /*background: lightgreen;*/
+				}
+
+
+ .h4right-bg{height: 670px;
+			width: 70%;
+			border: 1px solid green;
+			background: rgba(255, 255, 255, 0.4);
+			margin-left: 100PX;
+			margin-top: 20px;
+			font-weight: 600;
+			padding-left: 40px;
+			padding-top: 10px;
+			margin-bottom: 10px; }
+
+/*==================================== header4 end=================================*/
+
+
+.A{ margin-top: 500px; }
+.D{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.D1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+
+
+.E{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.E1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+/*========================================================================*/	
+
+.F{height: auto ; 
+ 	background: white;
+ 	/*border: 1px solid red;*/
+ 	display: flex;
+ 	flex-wrap: wrap; }
+
+ .F-image{ ; 
+ 	width: 100%;
+ 	height: 500px;
+ 	margin: 20px;
+ 	}
+
+ .F-text{ ; 
+ 	width: 100%;
+ 	height: 750px;
+ 	/*background: white;*/
+ 	/*border: 1px solid green; */ }
+
+
+ 	/*===============================================================================	 */
+ 	
+
+.H{ height: 100px;
+			width: 90%;
+			text-align: center;
+			/*padding: 30px;*/
+		    color: #2c3e50;
+		    font-size: 13px;
+		 		margin-top: -30px;
+		    margin-bottom: 70px;}
+
+ .I{height: auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	} 
+
+
+.I1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 40px;}
+
+.I1-IMAGE img{ height: 60%;
+			width: 100%; }
+
+
+.I1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			text-decoration: none;
+			}
+
+
+/*==============================================================================*/
+.K{height:auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    display: flex;
+    flex-wrap: wrap;} 
+
+.K1{height:100%;
+	width: 100%;
+	/*border: 1px solid blue;*/
+	margin-left: 50px;
+	margin-right: 40px;}
+
+
+.K1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 22px;
+			color: #2c3e50;
+			text-align: left;
+			/*border: 1px solid blue; */
+			margin-bottom: 15px;
+		font-weight: 600;}
+
+.K1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 8px;
+			color: #2c3e50;
+			font-size: 14px;
+			text-align: left;
+			margin-bottom: -5px;}
+.K1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			padding-left:130px;
+			margin-bottom: 30px;
+			padding-bottom: 20px;
+			/*border: 1px solid blue;*/
+			text-decoration: none;}
+
+/*==========================================================================*/
+.SEE-MORE a{ border: 1px solid #2c3e50;
+	margin-left: 37%;
+	color: #2c3e50;
+padding: 4px 15px;
+text-decoration: none;
+margin-top: 10%;
+margin-bottom: 10px;}
+
+/*==============================================================================*/
+.L{height: auto;
+	width: 100%;
+	margin: auto;
+	margin-top: 20px;
+	color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-achievement.jpg?id=136);
+	background-size: 100% 100%;
+	} 
+
+
+.L1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 20px;
+margin-top: 20px;}
+
+.L1-IMAGE i{ height: 30%;
+			width: 30%;
+			margin-left: 100px; 
+			font-size: 60px;
+			color: white;}
+
+.L1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 42px;
+			color: #f3bc65;
+			text-align: center;
+			font-weight: 50;
+			margin: 30px 0 10px -10px;
+			/*border: 1px solid blue; */}
+
+.L1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 5px;
+			color: #f3bc65;
+			font-size: 14px;
+			text-align: center;}
+
+
+
+.L2,.L3,.L4{height:100%;
+	width: 20%;
+	/*border: 1px solid blue;*/
+margin-right: 40px;}
+
+
+/*=============================================*/
+.M,.R{ height: 80px;
+	width: 100%;
+	/*border: 1px solid red;*/
+	text-align: center;
+	line-height: 80px;
+	font-size: 46px;
+    color: #2c3e50;
+    font-weight: 600;
+margin-top: 30px;
+margin-bottom: 30px;}	
+
+.N,.S{ height: 100px;
+	width: 90%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin: auto;}
+
+.O{ height:100px;
+	width: 50%
+	border: 1px solid blue;
+	color: #2c3e50;
+   	margin: auto;
+	display: flex;
+	padding-left: 35%;
+
+}
+
+
+.O-IMAGE{ height: 100px;
+	width: 25%;
+	/*border: 1px solid grey;*/
+	text-align: right;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-top: -20px;}
+
+.O-TEXT{ height: 100px;
+	width: 25%;
+	/*border: 1px solid greenyellow;*/
+	text-align: left;
+	padding-top: 35px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-left:80px;}
+
+.P{ height: 150px;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	/*padding: 0 30px;*/
+    color: #0ba;
+  font-style: italic;
+    /*font-size: 13px;*/
+	margin: auto;}
+
+.Q,.T {display: none	;}
+/*=====================================================*/
+.U{ height: auto;
+    width: 100%;
+    background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-footer.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    flex-wrap: wrap; }
+
+.U1{ height: 100%;
+     width: 0%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+
+.U2{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+ .U21{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+   }
+ .U22{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 30px;
+
+   }
+
+   .U22 a{ color: #bebebe;
+       text-decoration: none; 
+     word-spacing: 5px;}
+
+ .U23{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     
+   
+   }
+
+.U21 a i{ color: #0ba;
+     font-size: 25px; 
+     text-align: left;
+     padding-right: 40px;}
+
+.cr{color:  #bebebe;
+		margin-top: 170px;
+		font-size: 12px;}
+   
+
+.U3 { height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+
+   }
+   .U31{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+ /*  }
+ .U32{ height: 15%;
+     width: 100%;
+     border: 1px solid greenyellow;
+     color: #bebebe;
+     padding-top: 30px;
+*/
+   }
+
+
+   .U32{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 10px;
+     }
+
+.U33{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: -50px;
+     margin-top: -60px;
+     padding-left: 20px;
+     }
+
+.U4{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+
+     /*border: 1px solid greenyellow;*/
+   }
+
+   .U41{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;}
+
+    .U42{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 16px;
+     margin-bottom: 10px;}
+
+     .U42 a{ 	text-decoration: none;
+     					border: 1px solid #bebebe ; 
+							color: #bebebe;
+							padding: 8px 15px;
+
+     				}
+
+
+
+.U5{ height: 100%;
+     width: 0%;
+     /*border: 1px solid greenyellow;*/
+   }
+}
+  @media only screen and  (medium devices - screen width equal to or greater than 768px){/*=========== header1 start ==========*/
+.header1{height: auto;
+		width: 100%;
+		background: #262626;
+		display: flex;
+		flex-wrap: wrap ;
+		position: relative; }
+
+
+.header1 .logo{	width:100%;
+				height: 100%;
+				padding-top: 15px;
+				/*background: coral;*/
+				
+				}
+
+.header1 .buynow{	width:100%;
+				height: 100%;
+				padding-top: 10px;
+				/*padding-left: 630px;*/
+				/*background: lightcyan;*/
+				}
+
+
+.header1 .buynow a {	background: #7aa93c;
+				    	text-decoration: none;
+				    	color: white;
+				    	font-size: 17px;
+				    	padding: 8px 18px;
+				    	border-radius:25px ;
+				    	position: absolute;
+						right: 180px;
+						top: 2px;
+				    }
+				
+/*========== header1 end ========== */
+
+/*========== header2 start ========== */
+
+.header2{height: auto;
+		width: 100%;
+		/*background: lightcoral;*/
+		background: rgba(0,0,0,.2) ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+/*===================================================================*/
+.header2 .usd { height: 55px;
+		        width: 33.33%;
+		        /*background: black; */
+		    	text-align: center;
+		    	padding-top: 15px;}
+
+
+.header2 .usd a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .usd a i{ color: lightgray ;}
+
+/*===============================================================================*/
+
+.header2 .sqft { height: 55px;
+		        width: 33.33%;
+		        /*background: lightblue;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .sqft a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .sqft a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .eng { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcyan;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .eng a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .eng a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+.header2 .phone { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcoral;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .phone a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 15px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .phone a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .icon { height: 55px;
+				 width: 33.33%;
+ 				/*background: black;*/
+ 				text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .icon a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .icon a i{ color: lightgray ;}
+/*=========================================================================================*/
+ .header2 .login { height: 55px;
+ 				 width: 33.33%;
+ 				 /*background: lightpink;*/
+ 				 text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .login a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .login a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+
+/*===================================header2 end==========================================*/
+
+/*===================================header3 start==========================================*/
+
+.header3{height: 60px;
+		width: 100%;
+		background: transparent ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+.header3 .c-name{height: 60px;
+		width: 100%;
+		/*background: pink ;*/}
+										
+.header3 .link{height: auto;
+		width: 100%;
+		background: transparent ;}
+
+.header3 .link .main-ul .mainli a{ padding: 0px 15px;
+							    	text-decoration: none;
+							    	color: white;
+							    	font-weight: 600;
+							    	font-size: 13px; 
+							    	 }
+
+
+
+
+/*============================== header3 end ====================*/
+/*=============================== header4 start ==================*/
+
+
+.header4  { height: auto;
+			width: 100%;
+			background:url(http://realtyspace.codefactory47.com/app/uploads/revslider/RealtyspaceSlider11/banner-1.jpg?id=215);          background-size: 100% 100%;
+			display: flex;
+			flex-wrap: wrap;
+			 }
+/*===========================================================*/
+.header4 .h4left{ height: 100%;
+				  width: 100%;
+				  /*background: lightgray;*/
+				  padding-left: 100px;
+				margin-top: 30px;				}
+
+
+.header4 .h4left h1{ color: white; 
+					font-size: 50px;
+					font-weight: 800;}
+
+
+
+
+
+/*==============================================================================*/
+.header4 .h4right{ height: 100%;
+				  width: 100%;
+				  /*background: lightgreen;*/
+				}
+
+
+ .h4right-bg{height: 670px;
+			width: 70%;
+			border: 1px solid green;
+			background: rgba(255, 255, 255, 0.4);
+			margin-left: 100PX;
+			margin-top: 20px;
+			font-weight: 600;
+			padding-left: 40px;
+			padding-top: 10px;
+			margin-bottom: 10px; }
+
+/*==================================== header4 end=================================*/
+
+
+.A{ margin-top: 500px; }
+.D{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.D1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+
+
+.E{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.E1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+/*========================================================================*/	
+
+.F{height: auto ; 
+ 	background: white;
+ 	/*border: 1px solid red;*/
+ 	display: flex;
+ 	flex-wrap: wrap; }
+
+ .F-image{ ; 
+ 	width: 100%;
+ 	height: 500px;
+ 	margin: 20px;
+ 	}
+
+ .F-text{ ; 
+ 	width: 100%;
+ 	height: 750px;
+ 	/*background: white;*/
+ 	/*border: 1px solid green; */ }
+
+
+ 	/*===============================================================================	 */
+ 	
+
+.H{ height: 100px;
+			width: 90%;
+			text-align: center;
+			/*padding: 30px;*/
+		    color: #2c3e50;
+		    font-size: 13px;
+		 		margin-top: -30px;
+		    margin-bottom: 70px;}
+
+ .I{height: auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	} 
+
+
+.I1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 40px;}
+
+.I1-IMAGE img{ height: 60%;
+			width: 100%; }
+
+
+.I1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			text-decoration: none;
+			}
+
+
+/*==============================================================================*/
+.K{height:auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    display: flex;
+    flex-wrap: wrap;} 
+
+.K1{height:100%;
+	width: 100%;
+	/*border: 1px solid blue;*/
+	margin-left: 50px;
+	margin-right: 40px;}
+
+
+.K1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 22px;
+			color: #2c3e50;
+			text-align: left;
+			/*border: 1px solid blue; */
+			margin-bottom: 15px;
+		font-weight: 600;}
+
+.K1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 8px;
+			color: #2c3e50;
+			font-size: 14px;
+			text-align: left;
+			margin-bottom: -5px;}
+.K1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			padding-left:130px;
+			margin-bottom: 30px;
+			padding-bottom: 20px;
+			/*border: 1px solid blue;*/
+			text-decoration: none;}
+
+/*==========================================================================*/
+.SEE-MORE a{ border: 1px solid #2c3e50;
+	margin-left: 37%;
+	color: #2c3e50;
+padding: 4px 15px;
+text-decoration: none;
+margin-top: 10%;
+margin-bottom: 10px;}
+
+/*==============================================================================*/
+.L{height: auto;
+	width: 100%;
+	margin: auto;
+	margin-top: 20px;
+	color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-achievement.jpg?id=136);
+	background-size: 100% 100%;
+	} 
+
+
+.L1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 20px;
+margin-top: 20px;}
+
+.L1-IMAGE i{ height: 30%;
+			width: 30%;
+			margin-left: 100px; 
+			font-size: 60px;
+			color: white;}
+
+.L1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 42px;
+			color: #f3bc65;
+			text-align: center;
+			font-weight: 50;
+			margin: 30px 0 10px -10px;
+			/*border: 1px solid blue; */}
+
+.L1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 5px;
+			color: #f3bc65;
+			font-size: 14px;
+			text-align: center;}
+
+
+
+.L2,.L3,.L4{height:100%;
+	width: 20%;
+	/*border: 1px solid blue;*/
+margin-right: 40px;}
+
+
+/*=============================================*/
+.M,.R{ height: 80px;
+	width: 100%;
+	/*border: 1px solid red;*/
+	text-align: center;
+	line-height: 80px;
+	font-size: 46px;
+    color: #2c3e50;
+    font-weight: 600;
+margin-top: 30px;
+margin-bottom: 30px;}	
+
+.N,.S{ height: 100px;
+	width: 90%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin: auto;}
+
+.O{ height:100px;
+	width: 50%
+	border: 1px solid blue;
+	color: #2c3e50;
+   	margin: auto;
+	display: flex;
+	padding-left: 35%;
+
+}
+
+
+.O-IMAGE{ height: 100px;
+	width: 25%;
+	/*border: 1px solid grey;*/
+	text-align: right;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-top: -20px;}
+
+.O-TEXT{ height: 100px;
+	width: 25%;
+	/*border: 1px solid greenyellow;*/
+	text-align: left;
+	padding-top: 35px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-left:80px;}
+
+.P{ height: 150px;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	/*padding: 0 30px;*/
+    color: #0ba;
+  font-style: italic;
+    /*font-size: 13px;*/
+	margin: auto;}
+
+.Q,.T {display: none	;}
+/*=====================================================*/
+.U{ height: auto;
+    width: 100%;
+    background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-footer.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    flex-wrap: wrap; }
+
+.U1{ height: 100%;
+     width: 0%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+
+.U2{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+ .U21{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+   }
+ .U22{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 30px;
+
+   }
+
+   .U22 a{ color: #bebebe;
+       text-decoration: none; 
+     word-spacing: 5px;}
+
+ .U23{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     
+   
+   }
+
+.U21 a i{ color: #0ba;
+     font-size: 25px; 
+     text-align: left;
+     padding-right: 40px;}
+
+.cr{color:  #bebebe;
+		margin-top: 170px;
+		font-size: 12px;}
+   
+
+.U3 { height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+
+   }
+   .U31{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+ /*  }
+ .U32{ height: 15%;
+     width: 100%;
+     border: 1px solid greenyellow;
+     color: #bebebe;
+     padding-top: 30px;
+*/
+   }
+
+
+   .U32{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 10px;
+     }
+
+.U33{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: -50px;
+     margin-top: -60px;
+     padding-left: 20px;
+     }
+
+.U4{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+
+     /*border: 1px solid greenyellow;*/
+   }
+
+   .U41{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;}
+
+    .U42{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 16px;
+     margin-bottom: 10px;}
+
+     .U42 a{ 	text-decoration: none;
+     					border: 1px solid #bebebe ; 
+							color: #bebebe;
+							padding: 8px 15px;
+
+     				}
+
+
+
+.U5{ height: 100%;
+     width: 0%;
+     /*border: 1px solid greenyellow;*/
+   }
+}
+  @media only screen and  (large devices - screen width equal to or greater than 992px){/*=========== header1 start ==========*/
+.header1{height: auto;
+		width: 100%;
+		background: #262626;
+		display: flex;
+		flex-wrap: wrap ;
+		position: relative; }
+
+
+.header1 .logo{	width:100%;
+				height: 100%;
+				padding-top: 15px;
+				/*background: coral;*/
+				
+				}
+
+.header1 .buynow{	width:100%;
+				height: 100%;
+				padding-top: 10px;
+				/*padding-left: 630px;*/
+				/*background: lightcyan;*/
+				}
+
+
+.header1 .buynow a {	background: #7aa93c;
+				    	text-decoration: none;
+				    	color: white;
+				    	font-size: 17px;
+				    	padding: 8px 18px;
+				    	border-radius:25px ;
+				    	position: absolute;
+						right: 180px;
+						top: 2px;
+				    }
+				
+/*========== header1 end ========== */
+
+/*========== header2 start ========== */
+
+.header2{height: auto;
+		width: 100%;
+		/*background: lightcoral;*/
+		background: rgba(0,0,0,.2) ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+/*===================================================================*/
+.header2 .usd { height: 55px;
+		        width: 33.33%;
+		        /*background: black; */
+		    	text-align: center;
+		    	padding-top: 15px;}
+
+
+.header2 .usd a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .usd a i{ color: lightgray ;}
+
+/*===============================================================================*/
+
+.header2 .sqft { height: 55px;
+		        width: 33.33%;
+		        /*background: lightblue;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .sqft a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .sqft a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .eng { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcyan;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .eng a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .eng a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+.header2 .phone { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcoral;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .phone a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 15px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .phone a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .icon { height: 55px;
+				 width: 33.33%;
+ 				/*background: black;*/
+ 				text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .icon a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .icon a i{ color: lightgray ;}
+/*=========================================================================================*/
+ .header2 .login { height: 55px;
+ 				 width: 33.33%;
+ 				 /*background: lightpink;*/
+ 				 text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .login a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .login a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+
+/*===================================header2 end==========================================*/
+
+/*===================================header3 start==========================================*/
+
+.header3{height: 60px;
+		width: 100%;
+		background: transparent ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+.header3 .c-name{height: 60px;
+		width: 100%;
+		/*background: pink ;*/}
+										
+.header3 .link{height: auto;
+		width: 100%;
+		background: transparent ;}
+
+.header3 .link .main-ul .mainli a{ padding: 0px 15px;
+							    	text-decoration: none;
+							    	color: white;
+							    	font-weight: 600;
+							    	font-size: 13px; 
+							    	 }
+
+
+
+
+/*============================== header3 end ====================*/
+/*=============================== header4 start ==================*/
+
+
+.header4  { height: auto;
+			width: 100%;
+			background:url(http://realtyspace.codefactory47.com/app/uploads/revslider/RealtyspaceSlider11/banner-1.jpg?id=215);          background-size: 100% 100%;
+			display: flex;
+			flex-wrap: wrap;
+			 }
+/*===========================================================*/
+.header4 .h4left{ height: 100%;
+				  width: 100%;
+				  /*background: lightgray;*/
+				  padding-left: 100px;
+				margin-top: 30px;				}
+
+
+.header4 .h4left h1{ color: white; 
+					font-size: 50px;
+					font-weight: 800;}
+
+
+
+
+
+/*==============================================================================*/
+.header4 .h4right{ height: 100%;
+				  width: 100%;
+				  /*background: lightgreen;*/
+				}
+
+
+ .h4right-bg{height: 670px;
+			width: 70%;
+			border: 1px solid green;
+			background: rgba(255, 255, 255, 0.4);
+			margin-left: 100PX;
+			margin-top: 20px;
+			font-weight: 600;
+			padding-left: 40px;
+			padding-top: 10px;
+			margin-bottom: 10px; }
+
+/*==================================== header4 end=================================*/
+
+
+.A{ margin-top: 500px; }
+.D{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.D1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+
+
+.E{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.E1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+/*========================================================================*/	
+
+.F{height: auto ; 
+ 	background: white;
+ 	/*border: 1px solid red;*/
+ 	display: flex;
+ 	flex-wrap: wrap; }
+
+ .F-image{ ; 
+ 	width: 100%;
+ 	height: 500px;
+ 	margin: 20px;
+ 	}
+
+ .F-text{ ; 
+ 	width: 100%;
+ 	height: 750px;
+ 	/*background: white;*/
+ 	/*border: 1px solid green; */ }
+
+
+ 	/*===============================================================================	 */
+ 	
+
+.H{ height: 100px;
+			width: 90%;
+			text-align: center;
+			/*padding: 30px;*/
+		    color: #2c3e50;
+		    font-size: 13px;
+		 		margin-top: -30px;
+		    margin-bottom: 70px;}
+
+ .I{height: auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	} 
+
+
+.I1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 40px;}
+
+.I1-IMAGE img{ height: 60%;
+			width: 100%; }
+
+
+.I1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			text-decoration: none;
+			}
+
+
+/*==============================================================================*/
+.K{height:auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    display: flex;
+    flex-wrap: wrap;} 
+
+.K1{height:100%;
+	width: 100%;
+	/*border: 1px solid blue;*/
+	margin-left: 50px;
+	margin-right: 40px;}
+
+
+.K1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 22px;
+			color: #2c3e50;
+			text-align: left;
+			/*border: 1px solid blue; */
+			margin-bottom: 15px;
+		font-weight: 600;}
+
+.K1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 8px;
+			color: #2c3e50;
+			font-size: 14px;
+			text-align: left;
+			margin-bottom: -5px;}
+.K1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			padding-left:130px;
+			margin-bottom: 30px;
+			padding-bottom: 20px;
+			/*border: 1px solid blue;*/
+			text-decoration: none;}
+
+/*==========================================================================*/
+.SEE-MORE a{ border: 1px solid #2c3e50;
+	margin-left: 37%;
+	color: #2c3e50;
+padding: 4px 15px;
+text-decoration: none;
+margin-top: 10%;
+margin-bottom: 10px;}
+
+/*==============================================================================*/
+.L{height: auto;
+	width: 100%;
+	margin: auto;
+	margin-top: 20px;
+	color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-achievement.jpg?id=136);
+	background-size: 100% 100%;
+	} 
+
+
+.L1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 20px;
+margin-top: 20px;}
+
+.L1-IMAGE i{ height: 30%;
+			width: 30%;
+			margin-left: 100px; 
+			font-size: 60px;
+			color: white;}
+
+.L1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 42px;
+			color: #f3bc65;
+			text-align: center;
+			font-weight: 50;
+			margin: 30px 0 10px -10px;
+			/*border: 1px solid blue; */}
+
+.L1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 5px;
+			color: #f3bc65;
+			font-size: 14px;
+			text-align: center;}
+
+
+
+.L2,.L3,.L4{height:100%;
+	width: 20%;
+	/*border: 1px solid blue;*/
+margin-right: 40px;}
+
+
+/*=============================================*/
+.M,.R{ height: 80px;
+	width: 100%;
+	/*border: 1px solid red;*/
+	text-align: center;
+	line-height: 80px;
+	font-size: 46px;
+    color: #2c3e50;
+    font-weight: 600;
+margin-top: 30px;
+margin-bottom: 30px;}	
+
+.N,.S{ height: 100px;
+	width: 90%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin: auto;}
+
+.O{ height:100px;
+	width: 50%
+	border: 1px solid blue;
+	color: #2c3e50;
+   	margin: auto;
+	display: flex;
+	padding-left: 35%;
+
+}
+
+
+.O-IMAGE{ height: 100px;
+	width: 25%;
+	/*border: 1px solid grey;*/
+	text-align: right;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-top: -20px;}
+
+.O-TEXT{ height: 100px;
+	width: 25%;
+	/*border: 1px solid greenyellow;*/
+	text-align: left;
+	padding-top: 35px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-left:80px;}
+
+.P{ height: 150px;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	/*padding: 0 30px;*/
+    color: #0ba;
+  font-style: italic;
+    /*font-size: 13px;*/
+	margin: auto;}
+
+.Q,.T {display: none	;}
+/*=====================================================*/
+.U{ height: auto;
+    width: 100%;
+    background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-footer.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    flex-wrap: wrap; }
+
+.U1{ height: 100%;
+     width: 0%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+
+.U2{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+ .U21{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+   }
+ .U22{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 30px;
+
+   }
+
+   .U22 a{ color: #bebebe;
+       text-decoration: none; 
+     word-spacing: 5px;}
+
+ .U23{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     
+   
+   }
+
+.U21 a i{ color: #0ba;
+     font-size: 25px; 
+     text-align: left;
+     padding-right: 40px;}
+
+.cr{color:  #bebebe;
+		margin-top: 170px;
+		font-size: 12px;}
+   
+
+.U3 { height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+
+   }
+   .U31{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+ /*  }
+ .U32{ height: 15%;
+     width: 100%;
+     border: 1px solid greenyellow;
+     color: #bebebe;
+     padding-top: 30px;
+*/
+   }
+
+
+   .U32{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 10px;
+     }
+
+.U33{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: -50px;
+     margin-top: -60px;
+     padding-left: 20px;
+     }
+
+.U4{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+
+     /*border: 1px solid greenyellow;*/
+   }
+
+   .U41{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;}
+
+    .U42{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 16px;
+     margin-bottom: 10px;}
+
+     .U42 a{ 	text-decoration: none;
+     					border: 1px solid #bebebe ; 
+							color: #bebebe;
+							padding: 8px 15px;
+
+     				}
+
+
+
+.U5{ height: 100%;
+     width: 0%;
+     /*border: 1px solid greenyellow;*/
+   }
+}
+  @media only screen and  (xlarge devices - screen width equal to or greater than 1200px){/*=========== header1 start ==========*/
+.header1{height: auto;
+		width: 100%;
+		background: #262626;
+		display: flex;
+		flex-wrap: wrap ;
+		position: relative; }
+
+
+.header1 .logo{	width:100%;
+				height: 100%;
+				padding-top: 15px;
+				/*background: coral;*/
+				
+				}
+
+.header1 .buynow{	width:100%;
+				height: 100%;
+				padding-top: 10px;
+				/*padding-left: 630px;*/
+				/*background: lightcyan;*/
+				}
+
+
+.header1 .buynow a {	background: #7aa93c;
+				    	text-decoration: none;
+				    	color: white;
+				    	font-size: 17px;
+				    	padding: 8px 18px;
+				    	border-radius:25px ;
+				    	position: absolute;
+						right: 180px;
+						top: 2px;
+				    }
+				
+/*========== header1 end ========== */
+
+/*========== header2 start ========== */
+
+.header2{height: auto;
+		width: 100%;
+		/*background: lightcoral;*/
+		background: rgba(0,0,0,.2) ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+/*===================================================================*/
+.header2 .usd { height: 55px;
+		        width: 33.33%;
+		        /*background: black; */
+		    	text-align: center;
+		    	padding-top: 15px;}
+
+
+.header2 .usd a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .usd a i{ color: lightgray ;}
+
+/*===============================================================================*/
+
+.header2 .sqft { height: 55px;
+		        width: 33.33%;
+		        /*background: lightblue;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .sqft a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .sqft a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .eng { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcyan;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .eng a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .eng a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+.header2 .phone { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcoral;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .phone a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 15px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .phone a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .icon { height: 55px;
+				 width: 33.33%;
+ 				/*background: black;*/
+ 				text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .icon a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .icon a i{ color: lightgray ;}
+/*=========================================================================================*/
+ .header2 .login { height: 55px;
+ 				 width: 33.33%;
+ 				 /*background: lightpink;*/
+ 				 text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .login a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .login a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+
+/*===================================header2 end==========================================*/
+
+/*===================================header3 start==========================================*/
+
+.header3{height: 60px;
+		width: 100%;
+		background: transparent ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+.header3 .c-name{height: 60px;
+		width: 100%;
+		/*background: pink ;*/}
+										
+.header3 .link{height: auto;
+		width: 100%;
+		background: transparent ;}
+
+.header3 .link .main-ul .mainli a{ padding: 0px 15px;
+							    	text-decoration: none;
+							    	color: white;
+							    	font-weight: 600;
+							    	font-size: 13px; 
+							    	 }
+
+
+
+
+/*============================== header3 end ====================*/
+/*=============================== header4 start ==================*/
+
+
+.header4  { height: auto;
+			width: 100%;
+			background:url(http://realtyspace.codefactory47.com/app/uploads/revslider/RealtyspaceSlider11/banner-1.jpg?id=215);          background-size: 100% 100%;
+			display: flex;
+			flex-wrap: wrap;
+			 }
+/*===========================================================*/
+.header4 .h4left{ height: 100%;
+				  width: 100%;
+				  /*background: lightgray;*/
+				  padding-left: 100px;
+				margin-top: 30px;				}
+
+
+.header4 .h4left h1{ color: white; 
+					font-size: 50px;
+					font-weight: 800;}
+
+
+
+
+
+/*==============================================================================*/
+.header4 .h4right{ height: 100%;
+				  width: 100%;
+				  /*background: lightgreen;*/
+				}
+
+
+ .h4right-bg{height: 670px;
+			width: 70%;
+			border: 1px solid green;
+			background: rgba(255, 255, 255, 0.4);
+			margin-left: 100PX;
+			margin-top: 20px;
+			font-weight: 600;
+			padding-left: 40px;
+			padding-top: 10px;
+			margin-bottom: 10px; }
+
+/*==================================== header4 end=================================*/
+
+
+.A{ margin-top: 500px; }
+.D{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.D1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+
+
+.E{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.E1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+/*========================================================================*/	
+
+.F{height: auto ; 
+ 	background: white;
+ 	/*border: 1px solid red;*/
+ 	display: flex;
+ 	flex-wrap: wrap; }
+
+ .F-image{ ; 
+ 	width: 100%;
+ 	height: 500px;
+ 	margin: 20px;
+ 	}
+
+ .F-text{ ; 
+ 	width: 100%;
+ 	height: 750px;
+ 	/*background: white;*/
+ 	/*border: 1px solid green; */ }
+
+
+ 	/*===============================================================================	 */
+ 	
+
+.H{ height: 100px;
+			width: 90%;
+			text-align: center;
+			/*padding: 30px;*/
+		    color: #2c3e50;
+		    font-size: 13px;
+		 		margin-top: -30px;
+		    margin-bottom: 70px;}
+
+ .I{height: auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	} 
+
+
+.I1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 40px;}
+
+.I1-IMAGE img{ height: 60%;
+			width: 100%; }
+
+
+.I1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			text-decoration: none;
+			}
+
+
+/*==============================================================================*/
+.K{height:auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    display: flex;
+    flex-wrap: wrap;} 
+
+.K1{height:100%;
+	width: 100%;
+	/*border: 1px solid blue;*/
+	margin-left: 50px;
+	margin-right: 40px;}
+
+
+.K1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 22px;
+			color: #2c3e50;
+			text-align: left;
+			/*border: 1px solid blue; */
+			margin-bottom: 15px;
+		font-weight: 600;}
+
+.K1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 8px;
+			color: #2c3e50;
+			font-size: 14px;
+			text-align: left;
+			margin-bottom: -5px;}
+.K1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			padding-left:130px;
+			margin-bottom: 30px;
+			padding-bottom: 20px;
+			/*border: 1px solid blue;*/
+			text-decoration: none;}
+
+/*==========================================================================*/
+.SEE-MORE a{ border: 1px solid #2c3e50;
+	margin-left: 37%;
+	color: #2c3e50;
+padding: 4px 15px;
+text-decoration: none;
+margin-top: 10%;
+margin-bottom: 10px;}
+
+/*==============================================================================*/
+.L{height: auto;
+	width: 100%;
+	margin: auto;
+	margin-top: 20px;
+	color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-achievement.jpg?id=136);
+	background-size: 100% 100%;
+	} 
+
+
+.L1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 20px;
+margin-top: 20px;}
+
+.L1-IMAGE i{ height: 30%;
+			width: 30%;
+			margin-left: 100px; 
+			font-size: 60px;
+			color: white;}
+
+.L1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 42px;
+			color: #f3bc65;
+			text-align: center;
+			font-weight: 50;
+			margin: 30px 0 10px -10px;
+			/*border: 1px solid blue; */}
+
+.L1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 5px;
+			color: #f3bc65;
+			font-size: 14px;
+			text-align: center;}
+
+
+
+.L2,.L3,.L4{height:100%;
+	width: 20%;
+	/*border: 1px solid blue;*/
+margin-right: 40px;}
+
+
+/*=============================================*/
+.M,.R{ height: 80px;
+	width: 100%;
+	/*border: 1px solid red;*/
+	text-align: center;
+	line-height: 80px;
+	font-size: 46px;
+    color: #2c3e50;
+    font-weight: 600;
+margin-top: 30px;
+margin-bottom: 30px;}	
+
+.N,.S{ height: 100px;
+	width: 90%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin: auto;}
+
+.O{ height:100px;
+	width: 50%
+	border: 1px solid blue;
+	color: #2c3e50;
+   	margin: auto;
+	display: flex;
+	padding-left: 35%;
+
+}
+
+
+.O-IMAGE{ height: 100px;
+	width: 25%;
+	/*border: 1px solid grey;*/
+	text-align: right;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-top: -20px;}
+
+.O-TEXT{ height: 100px;
+	width: 25%;
+	/*border: 1px solid greenyellow;*/
+	text-align: left;
+	padding-top: 35px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-left:80px;}
+
+.P{ height: 150px;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	/*padding: 0 30px;*/
+    color: #0ba;
+  font-style: italic;
+    /*font-size: 13px;*/
+	margin: auto;}
+
+.Q,.T {display: none	;}
+/*=====================================================*/
+.U{ height: auto;
+    width: 100%;
+    background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-footer.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    flex-wrap: wrap; }
+
+.U1{ height: 100%;
+     width: 0%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+
+.U2{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+ .U21{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+   }
+ .U22{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 30px;
+
+   }
+
+   .U22 a{ color: #bebebe;
+       text-decoration: none; 
+     word-spacing: 5px;}
+
+ .U23{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     
+   
+   }
+
+.U21 a i{ color: #0ba;
+     font-size: 25px; 
+     text-align: left;
+     padding-right: 40px;}
+
+.cr{color:  #bebebe;
+		margin-top: 170px;
+		font-size: 12px;}
+   
+
+.U3 { height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+
+   }
+   .U31{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+ /*  }
+ .U32{ height: 15%;
+     width: 100%;
+     border: 1px solid greenyellow;
+     color: #bebebe;
+     padding-top: 30px;
+*/
+   }
+
+
+   .U32{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 10px;
+     }
+
+.U33{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: -50px;
+     margin-top: -60px;
+     padding-left: 20px;
+     }
+
+.U4{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+
+     /*border: 1px solid greenyellow;*/
+   }
+
+   .U41{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;}
+
+    .U42{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 16px;
+     margin-bottom: 10px;}
+
+     .U42 a{ 	text-decoration: none;
+     					border: 1px solid #bebebe ; 
+							color: #bebebe;
+							padding: 8px 15px;
+
+     				}
+
+
+
+.U5{ height: 100%;
+     width: 0%;
+     /*border: 1px solid greenyellow;*/
+   }
+}
+  @media only screen and  (xxlarge devices - screen width equal to or greater than 1400px){/*=========== header1 start ==========*/
+.header1{height: auto;
+		width: 100%;
+		background: #262626;
+		display: flex;
+		flex-wrap: wrap ;
+		position: relative; }
+
+
+.header1 .logo{	width:100%;
+				height: 100%;
+				padding-top: 15px;
+				/*background: coral;*/
+				
+				}
+
+.header1 .buynow{	width:100%;
+				height: 100%;
+				padding-top: 10px;
+				/*padding-left: 630px;*/
+				/*background: lightcyan;*/
+				}
+
+
+.header1 .buynow a {	background: #7aa93c;
+				    	text-decoration: none;
+				    	color: white;
+				    	font-size: 17px;
+				    	padding: 8px 18px;
+				    	border-radius:25px ;
+				    	position: absolute;
+						right: 180px;
+						top: 2px;
+				    }
+				
+/*========== header1 end ========== */
+
+/*========== header2 start ========== */
+
+.header2{height: auto;
+		width: 100%;
+		/*background: lightcoral;*/
+		background: rgba(0,0,0,.2) ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+/*===================================================================*/
+.header2 .usd { height: 55px;
+		        width: 33.33%;
+		        /*background: black; */
+		    	text-align: center;
+		    	padding-top: 15px;}
+
+
+.header2 .usd a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .usd a i{ color: lightgray ;}
+
+/*===============================================================================*/
+
+.header2 .sqft { height: 55px;
+		        width: 33.33%;
+		        /*background: lightblue;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .sqft a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .sqft a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .eng { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcyan;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .eng a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .eng a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+.header2 .phone { height: 55px;
+		        width: 33.33%;
+		        /*background: lightcoral;*/
+		        text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .phone a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 15px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .phone a i{ color: lightgray ;}
+/*=========================================================================================*/
+.header2 .icon { height: 55px;
+				 width: 33.33%;
+ 				/*background: black;*/
+ 				text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .icon a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .icon a i{ color: lightgray ;}
+/*=========================================================================================*/
+ .header2 .login { height: 55px;
+ 				 width: 33.33%;
+ 				 /*background: lightpink;*/
+ 				 text-align: center;
+		    	padding-top: 15px; }
+
+.header2 .login a{ border: 1px solid transparent;
+		    	background: transparent;
+		    	color: white;
+		    	text-decoration: none; 
+		    	word-spacing: 7px;
+		    	font-size: 20px;
+		    	font-weight:bold ;
+    	}
+
+.header2 .login a i{ color: lightgray ;}
+
+/*=========================================================================================*/
+
+/*===================================header2 end==========================================*/
+
+/*===================================header3 start==========================================*/
+
+.header3{height: 60px;
+		width: 100%;
+		background: transparent ;
+		display: flex;
+		flex-wrap: wrap;}
+
+
+.header3 .c-name{height: 60px;
+		width: 100%;
+		/*background: pink ;*/}
+										
+.header3 .link{height: auto;
+		width: 100%;
+		background: transparent ;}
+
+.header3 .link .main-ul .mainli a{ padding: 0px 15px;
+							    	text-decoration: none;
+							    	color: white;
+							    	font-weight: 600;
+							    	font-size: 13px; 
+							    	 }
+
+
+
+
+/*============================== header3 end ====================*/
+/*=============================== header4 start ==================*/
+
+
+.header4  { height: auto;
+			width: 100%;
+			background:url(http://realtyspace.codefactory47.com/app/uploads/revslider/RealtyspaceSlider11/banner-1.jpg?id=215);          background-size: 100% 100%;
+			display: flex;
+			flex-wrap: wrap;
+			 }
+/*===========================================================*/
+.header4 .h4left{ height: 100%;
+				  width: 100%;
+				  /*background: lightgray;*/
+				  padding-left: 100px;
+				margin-top: 30px;				}
+
+
+.header4 .h4left h1{ color: white; 
+					font-size: 50px;
+					font-weight: 800;}
+
+
+
+
+
+/*==============================================================================*/
+.header4 .h4right{ height: 100%;
+				  width: 100%;
+				  /*background: lightgreen;*/
+				}
+
+
+ .h4right-bg{height: 670px;
+			width: 70%;
+			border: 1px solid green;
+			background: rgba(255, 255, 255, 0.4);
+			margin-left: 100PX;
+			margin-top: 20px;
+			font-weight: 600;
+			padding-left: 40px;
+			padding-top: 10px;
+			margin-bottom: 10px; }
+
+/*==================================== header4 end=================================*/
+
+
+.A{ margin-top: 500px; }
+.D{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.D1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.D3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+
+
+.E{  height: auto;
+	 font-size: 15px;
+	 color: #2c3e50;
+	 margin: 45px 0;
+	 display: flex;
+	 flex-wrap: wrap;}
+
+.E1{ 	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E2{ 	margin-left: 45px ; 
+		height: 100%;
+		width: 80%;
+		/*border: 1px solid black;*/
+		background: white;
+		margin-bottom: 20px; }
+
+.E3{	margin-left: 45px ;
+		height: 100%;
+		width: 80%;
+		background: white;
+		margin-bottom: 20px; 
+		/*border: 1px solid black;*/}
+/*========================================================================*/	
+
+.F{height: auto ; 
+ 	background: white;
+ 	/*border: 1px solid red;*/
+ 	display: flex;
+ 	flex-wrap: wrap; }
+
+ .F-image{ ; 
+ 	width: 100%;
+ 	height: 500px;
+ 	margin: 20px;
+ 	}
+
+ .F-text{ ; 
+ 	width: 100%;
+ 	height: 750px;
+ 	/*background: white;*/
+ 	/*border: 1px solid green; */ }
+
+
+ 	/*===============================================================================	 */
+ 	
+
+.H{ height: 100px;
+			width: 90%;
+			text-align: center;
+			/*padding: 30px;*/
+		    color: #2c3e50;
+		    font-size: 13px;
+		 		margin-top: -30px;
+		    margin-bottom: 70px;}
+
+ .I{height: auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	} 
+
+
+.I1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 40px;}
+
+.I1-IMAGE img{ height: 60%;
+			width: 100%; }
+
+
+.I1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			text-decoration: none;
+			}
+
+
+/*==============================================================================*/
+.K{height:auto;
+	width: 90%;
+	margin: auto;
+	/*border: 1px solid blue;*/
+    color: #2c3e50;
+    display: flex;
+    flex-wrap: wrap;} 
+
+.K1{height:100%;
+	width: 100%;
+	/*border: 1px solid blue;*/
+	margin-left: 50px;
+	margin-right: 40px;}
+
+
+.K1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 22px;
+			color: #2c3e50;
+			text-align: left;
+			/*border: 1px solid blue; */
+			margin-bottom: 15px;
+		font-weight: 600;}
+
+.K1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 8px;
+			color: #2c3e50;
+			font-size: 14px;
+			text-align: left;
+			margin-bottom: -5px;}
+.K1-TEXT3 a{ height: 7%;
+			width: 100%;
+			font-size: 11px;
+			color: #2c3e50;
+			padding-left:130px;
+			margin-bottom: 30px;
+			padding-bottom: 20px;
+			/*border: 1px solid blue;*/
+			text-decoration: none;}
+
+/*==========================================================================*/
+.SEE-MORE a{ border: 1px solid #2c3e50;
+	margin-left: 37%;
+	color: #2c3e50;
+padding: 4px 15px;
+text-decoration: none;
+margin-top: 10%;
+margin-bottom: 10px;}
+
+/*==============================================================================*/
+.L{height: auto;
+	width: 100%;
+	margin: auto;
+	margin-top: 20px;
+	color: #2c3e50;
+    font-weight: 600;
+	display: flex;
+	flex-wrap: wrap;
+	background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-achievement.jpg?id=136);
+	background-size: 100% 100%;
+	} 
+
+
+.L1{height:100%;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	margin-left: 120px;
+	margin-right: 20px;
+margin-top: 20px;}
+
+.L1-IMAGE i{ height: 30%;
+			width: 30%;
+			margin-left: 100px; 
+			font-size: 60px;
+			color: white;}
+
+.L1-TEXT1{ height: 7%;
+			width: 100%;
+			font-size: 42px;
+			color: #f3bc65;
+			text-align: center;
+			font-weight: 50;
+			margin: 30px 0 10px -10px;
+			/*border: 1px solid blue; */}
+
+.L1-TEXT2{ height: 7%;
+			width: 100%;
+			/*border: 1px solid blue; */
+			margin-top: 5px;
+			color: #f3bc65;
+			font-size: 14px;
+			text-align: center;}
+
+
+
+.L2,.L3,.L4{height:100%;
+	width: 20%;
+	/*border: 1px solid blue;*/
+margin-right: 40px;}
+
+
+/*=============================================*/
+.M,.R{ height: 80px;
+	width: 100%;
+	/*border: 1px solid red;*/
+	text-align: center;
+	line-height: 80px;
+	font-size: 46px;
+    color: #2c3e50;
+    font-weight: 600;
+margin-top: 30px;
+margin-bottom: 30px;}	
+
+.N,.S{ height: 100px;
+	width: 90%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin: auto;}
+
+.O{ height:100px;
+	width: 50%
+	border: 1px solid blue;
+	color: #2c3e50;
+   	margin: auto;
+	display: flex;
+	padding-left: 35%;
+
+}
+
+
+.O-IMAGE{ height: 100px;
+	width: 25%;
+	/*border: 1px solid grey;*/
+	text-align: right;
+	padding: 0 30px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-top: -20px;}
+
+.O-TEXT{ height: 100px;
+	width: 25%;
+	/*border: 1px solid greenyellow;*/
+	text-align: left;
+	padding-top: 35px;
+    color: #2c3e50;
+    font-size: 13px;
+margin-left:80px;}
+
+.P{ height: 150px;
+	width: 50%;
+	/*border: 1px solid blue;*/
+	text-align: center;
+	/*padding: 0 30px;*/
+    color: #0ba;
+  font-style: italic;
+    /*font-size: 13px;*/
+	margin: auto;}
+
+.Q,.T {display: none	;}
+/*=====================================================*/
+.U{ height: auto;
+    width: 100%;
+    background: url(http://realtyspace.codefactory47.com/app/uploads/2016/04/bg-footer.jpg);
+    background-size: 100% 100%;
+    display: flex;
+    flex-wrap: wrap; }
+
+.U1{ height: 100%;
+     width: 0%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+
+.U2{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+   }
+
+ .U21{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+   }
+ .U22{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 30px;
+
+   }
+
+   .U22 a{ color: #bebebe;
+       text-decoration: none; 
+     word-spacing: 5px;}
+
+ .U23{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     
+   
+   }
+
+.U21 a i{ color: #0ba;
+     font-size: 25px; 
+     text-align: left;
+     padding-right: 40px;}
+
+.cr{color:  #bebebe;
+		margin-top: 170px;
+		font-size: 12px;}
+   
+
+.U3 { height: 100%;
+     width: 100%;
+     padding-left: 30px;
+     /*border: 1px solid greenyellow;*/
+
+   }
+   .U31{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;
+    
+ /*  }
+ .U32{ height: 15%;
+     width: 100%;
+     border: 1px solid greenyellow;
+     color: #bebebe;
+     padding-top: 30px;
+*/
+   }
+
+
+   .U32{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 10px;
+     }
+
+.U33{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: -50px;
+     margin-top: -60px;
+     padding-left: 20px;
+     }
+
+.U4{ height: 100%;
+     width: 100%;
+     padding-left: 30px;
+
+     /*border: 1px solid greenyellow;*/
+   }
+
+   .U41{ height: 10%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     font-size: 20px;
+    color: #0ba;
+    font-weight: 600; 
+    padding-top:30px;
+    display: flex;}
+
+    .U42{ height: 15%;
+     width: 100%;
+     /*border: 1px solid greenyellow;*/
+     color: #bebebe;
+     padding-top: 16px;
+     margin-bottom: 10px;}
+
+     .U42 a{ 	text-decoration: none;
+     					border: 1px solid #bebebe ; 
+							color: #bebebe;
+							padding: 8px 15px;
+
+     				}
+
+
+
+.U5{ height: 100%;
+     width: 0%;
+     /*border: 1px solid greenyellow;*/
+   }
+}

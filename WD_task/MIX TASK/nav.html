@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> ABC COMPANY</title>
+
+<style type="text/css">
+
+	*{box-sizing: border-box;}
+
+	.header{ height: 100px;
+			 
+			 display: flex;
+			 box-shadow: 0 0 3px black ;
+			  }
+
+	.logo{ width: 30%;
+
+		   background: white;
+		   box-shadow: 0 0 3px black;
+		   font-size: 35px; 
+		   text-align: center;
+		   line-height: 100px;}
+
+	.menu{width: 70%;
+		  
+		text-align: center;
+		/*line-height: 100px;*/
+		padding-top: 40px;}	   
+
+	ul{ margin: 0;
+			padding: 0; }
+
+	.mainli{ list-style-type: none;
+		display: inline;
+		position: relative;
+		 }
+
+	.link{ text-decoration: none;
+		color: white;
+		background: black;
+		padding-top: 16px;
+		padding-bottom: 16px;
+		padding-right: 38px;
+		padding-left: 38px;
+		margin-right: 40px;
+		border-radius: 15px;
+		border: 5px double white;
+		transition: 0.5s; }	
+
+	.sublink{ text-decoration: none;
+		color: white;
+		background: lightblue;
+		padding-top: 6px;
+		padding-bottom: 6px;
+		padding-right: 8px;
+		padding-left: 8px;
+		margin-right: 0px;
+		border-radius: 15px;
+		border: 5px double white;
+		transition: 0.5s;
+		color: lightsalmon;
+		 }		
+
+	.mainli:hover{ font-size: 30px; }
+	
+	.subli{ list-style-type: none;
+			  padding-top: 20px;}
+
+	.product{display: none;position: absolute;left: 29px;
+		padding-top: 25px;
+	}
+	.mainli:hover .product {display: block;
+ }
+  .sublink:hover{ color: orangered; 
+  					font-weight: bold;}
+</style>
+
+</head>
+<body>
+
+<div class="header">
+	<div class="logo">ABC COMPANY</div>
+	
+	<div class="menu">
+		<ul class="first">
+			<li class="mainli"> <a class="link" href="home.html"> Home </a></li>
+			<li class="mainli"> <a class="link"href="about.html"> About </a> </li>
+			<li class="mainli"> <a class="link"href="about.html"> Product</a> 
+				<ul class="product">
+					<li class="subli"> <a class="sublink" href="Product.html"> Product 1</a></li>
+					<li class="subli"> <a class="sublink" href="Product.html">Product 2</a></li>
+					<li class="subli"> <a class="sublink" href="Product.html">Product 3</a></li>
+					<li class="subli"> <a class="sublink" href="Product.html"> Product 4</a> </li>
+					<li class="subli"> <a class="sublink" href="Product.html">Product 5</a></li>
+				</ul>
+			</li>
+			<li class="mainli" > <a class="link"href="about.html"> Services </a> </li>
+			<li class="mainli"> <a class="link"href="about.html"> Contact Us </a> </li>
+
+
+		</ul> 
+	</div>
+</div>
+
+
+
+</body>
+</html>

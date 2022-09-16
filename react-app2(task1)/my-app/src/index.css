@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nav-item  
+{   
+  margin:50px 50px;
+  border: 5px solid coral;
+  border-radius: 50px;
+  text-align: center;
+  width:250px;
+  background-color: aquamarine;
+  list-style: none;
+  padding: 10px;
+  font-weight: 900;
+}
+.nav-item:hover
+{
+  background-color:black;
+}
+.nav-link
+{
+  color: coral;
+  font-size: 35px;
+  text-decoration: none;
+  font-weight: 900;
+
+}
+
+
+.breakfast,.lunch, .dinner
+{
+  margin:50px 50px;
+  border: 5px solid coral;
+  border-radius: 50px;
+  /* text-align: center; */
+  width:500px;
+  background-color: black;
+  padding: 10px;
+  color: coral;
+  font-size: 20px;
+  font-weight: 900;
+  position: absolute;
+  top: 0px;
+  left: 300px;
+ 
+}
+
+.breakfast > h3,.lunch >h3 , .dinner >h3
+{
+  text-align: center;
+  color: aqua;
+  
+}
+
+
+@keyframes arjun {
+  0%{color: coral;}
+  50%{ color: blueviolet}
+  100%{ color:white;}
+  
+}

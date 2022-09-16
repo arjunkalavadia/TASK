@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+
+</head>
+<body>
+
+<img src="img1.jpg" height="750px" id="i">
+<button type="" onclick="change()">Click here to change the image</button>
+
+
+<script type="text/javascript">
+	
+	function change()
+	{
+
+		var img1=document.getElementById('i')
+
+		if (img1.src.match("img1.jpg"))
+		{
+			img1.src="img2.jpg"
+		}
+
+        else if (img1.src.match("img2.jpg"))
+		{
+			img1.src="img3.jpg"
+		}
+
+ 		else if (img1.src.match("img3.jpg"))
+		{
+			img1.src="img4.jpg"
+		}
+ 		else if (img1.src.match("img4.jpg"))
+		{
+			img1.src="img5.jpg"
+		}
+ 		else if (img1.src.match("img5.jpg"))
+		{
+			img1.src="img6.jpg"
+		}
+		 else if (img1.src.match("img6.jpg"))
+		{
+			img1.src="img7.jpg"
+		}
+
+        else
+        {
+        	img1.src="img1.jpg"
+        }
+
+        setTimeout("change()",1000)
+        
+}
+	change()
+</script>
+
+</body>
+</html>

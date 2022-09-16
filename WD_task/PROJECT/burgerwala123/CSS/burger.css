@@ -1,0 +1,680 @@
+*{ box-sizing: border-box;}
+
+body{margin: 0 ;
+	overflow-x: hidden;}
+
+
+.header1 
+{	background: url('IMAGES//bg1.png');
+	background-size: 100% 100%;
+	height: auto;
+	width: 100%;
+	
+	
+}
+/* nav bar start */
+
+
+.navbar
+{	
+	width: 100%;
+	background: rgba(0,0,0,.6);
+	
+}	
+
+
+
+.bur-logo
+{
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	background: white;
+	overflow: hidden;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.nav-link 
+{	
+	color: white;
+	font-family: poppins;
+	font-weight: SemiBold;
+	font-size: 20px;
+	margin: 0 10px;
+
+}
+				
+
+.nav-link:hover
+{
+	color:#f64b3c ;
+}
+
+.navbar-toggler
+{
+	background: #f64b3c;
+}
+.navbar-toggler-icon 
+{
+	color: white;
+}
+
+/* nav bar end */
+
+.content
+{
+	width:50%;
+	margin-left: 80px;
+	margin-top: 80px;
+	
+}
+.caseback
+
+{
+	color: white;
+	font-family: archivo;
+	font-weight: bold;
+	font-size: 91px;
+
+}
+
+.text1
+{
+	color: white;
+	font-size: 30px;
+	padding-top: 0;
+	text-align: justify;
+}
+
+.order_now 
+{
+
+	width: 30%;
+	background: #f64b3c;
+	font-size: 25px;
+	color: white;
+	border-radius: 25px;
+	padding: 5px 0;
+	margin-bottom: 50px;
+	transition: 0.5s;
+}
+.order_now:hover
+{
+	color:#f64b3c;
+	background:white ;
+}
+
+/* main div 2 start */
+
+.main2
+{
+	height: auto;
+	width: 100%;
+	background:#f6eedf;
+	position: relative;
+}
+.chef 
+{
+	font-size: 64px;
+	color: #f64b3c;
+	font-family: Archivo;
+	font-weight: bold;
+	text-align: center;
+}
+
+.chef-text
+{   width: 50%;
+	color: #f64b3c;
+	margin: auto;
+	font-size: 20px;
+	font-family: Archivo;
+	font-weight: bold;
+	text-align: center;
+	margin-top:-20px ;
+	margin-bottom: 80px;
+}
+
+.chef-image 
+{
+	text-align: center;
+	color: #f64b3c;
+}
+.imgofchef1
+{
+	height: 254px;
+	width: 254px;
+	border-radius: 50%;
+	background: url('IMAGES//chef1.png');
+	margin: auto;
+}
+
+.imgofchef1:hover
+{
+	opacity: 0.5;
+}
+.imgofchef2
+{
+	height: 254px;
+	width: 254px;
+	border-radius: 50%;
+	background: url('IMAGES//chef2.png');
+	margin: auto;
+}
+
+.imgofchef2:hover
+{
+	opacity: 0.5;
+}
+
+
+.imgofchef3
+{
+	height: 254px;
+	width: 254px;
+	border-radius: 50%;
+	background: url('IMAGES/chef3.png');
+	margin: auto;
+}
+.imgofchef3:hover
+{
+	opacity: 0.5;
+}
+
+.chefname
+{
+  font-size: 33px;
+  font-weight: bold;
+  font-family: Archivo;
+}
+
+.designation
+{
+	font-size: 20px;
+  font-weight: bold;
+  font-family: Archivo;
+  margin-top: -10px;
+  margin-bottom: 60px;
+}
+/* 
+.vso1
+{
+	position: absolute;
+	left: -20px;
+	top: 210px;
+	height: 120px;
+	width: 100px;
+}
+
+.vso2
+{
+	position: absolute;
+	left: 228px;
+	top: 80px;
+	height: 96px;
+	width: 96px;
+}
+.vso3
+{
+	position: absolute;
+	left:450px;
+	bottom:50px;
+
+	
+}
+.vso4
+{
+	position: absolute;
+	right:30px;
+	bottom:200px;
+	height: 70px;
+	width: 70px;
+	
+}
+.vso5
+{
+	position: absolute;
+	right: 80px;
+	top: 50px;
+	height: 150px;
+	width: 150px;
+	
+}
+.vso6
+{
+	position: absolute;
+	right: 420px;
+	bottom:50px;
+	
+	
+	
+}
+ */
+
+/* section3 start  */
+
+.section3
+{
+	height: auto;
+	width: 100%;
+	background: #f64b3c;
+	padding-left: 50px;
+	margin: auto;
+}
+
+.sec3img
+{
+	
+	padding: 100px 0;
+
+
+}
+
+.s3putimage
+{   height: 477px;
+	width: 479px;
+	background: black;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.s3putimage:hover
+{
+	filter:brightness(140%) ;
+}
+.sec3text
+{
+	margin: auto;
+}
+
+.s3content
+{
+	width: 60%;
+	
+	margin-top: 80px;
+	
+}
+.bestburger
+
+{
+	
+	font-family: archivo;
+	font-weight: bold;
+	font-size: 75px;
+	color: white;
+	margin-left: 80px;
+
+}
+
+.s3text3
+{
+	color: white;
+	font-size: 30px;
+	padding-top: 0;
+	text-align: justify;
+	margin-left: 80px;
+}
+
+.s3order_now 
+{
+
+	width: 230px;
+	background:white; 
+	font-size: 25px;
+	color: #f64b3c;
+	border-radius: 25px;
+	padding: 5px 0;
+	margin-bottom: 50px;
+	transition: 0.5s;
+	margin-left: 80px;
+}
+.s3order_now:hover
+{
+	color:white;
+	background:#f64b3c ;
+	border: 1px solid white;
+}
+
+/* section3 end */
+
+/* section 4 start */
+
+.section4
+{
+	height: auto;
+	width: 100%;
+	background:#f6eedf;
+	padding-left: -30px;
+	margin: auto;
+}
+
+.sec4img
+{
+	
+	padding: 100px 20px 100px 0;
+
+
+}
+
+.s4putimage
+{   height: 477px;
+	width: 479px;
+	background: black;
+	border-radius: 50%;
+	overflow: hidden;
+	margin-left: 60px;
+}
+.s4putimage:hover
+{
+	filter:brightness(140%) ;
+}
+.sec4text
+{
+	margin: auto;
+	padding-left: 40px;
+}
+
+.s4content
+{
+	width: 60%;
+	margin-left: 0px;
+	margin-top: 80px;
+	
+}
+.bestburger
+
+{
+		color: #f64b3c;
+	font-family: archivo;
+	font-weight: bold;
+	font-size: 75px;
+
+}
+
+.s4text3
+{
+		color: #f64b3c;
+	font-size: 30px;
+	
+	text-align: justify;
+}
+
+.s4order_now 
+{
+
+	width: 230px;
+	background:#f64b3c; 
+	font-size: 25px;
+	color: white;
+	border-radius: 25px;
+	padding: 5px 0;
+	margin-bottom: 50px;
+	transition: 0.5s;
+}
+.s4order_now:hover
+{
+	color:#f64b3c;
+	background:white;
+	
+}
+
+/* Section 4 end */  
+/* section 5 start */
+
+
+
+/* section 5 end */
+
+.section5
+{
+	background:#f64b3c ;
+	margin: auto;
+	padding: 20px;
+}
+.s5content2
+{   width: 50%;
+	color: white;
+	margin: auto;
+	font-size: 20px;
+	font-family: Archivo;
+	font-weight: bold;
+	text-align: center;
+	
+	margin-bottom: 80px;
+}
+
+.s5content1 
+{
+	font-size: 64px;
+	color: white;
+	font-family: Archivo;
+	font-weight: bold;
+	text-align: center;
+}
+
+.s5content3
+{
+	text-align: center;
+}
+
+
+
+.round 
+{margin: auto;
+	height: 310px;
+	width: 310px;
+	border-radius: 50%;
+	border: 3px solid white;
+	text-align: center;
+	color: white;
+	font-weight: 900;
+	padding-top: 70px;
+	margin-bottom: 20px;
+	
+}
+.round > p 
+{
+	font-size: 25px;
+
+}
+.round > h1 
+{
+	font-size: 85px;
+
+}
+
+
+/* section6 start */
+.section6
+{
+	height: auto;
+	width: 100%;
+	background:#f6eedf;
+	margin: auto;
+	text-align: center;
+}
+.section6 > h1 
+{
+	color:#f64b3c ;
+	font-size: 64px;
+	margin-bottom: 30px;
+
+}
+.cards
+{
+	
+	margin: auto;
+}
+.subcard
+{height: 446px;
+	width: 337px;
+	background: white;
+	margin: auto;
+	color:#f64b3c ;
+	font-family: Archivo;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+.subcard > h2 
+{
+	font-weight: 900;
+	margin: 20px 0;
+
+}
+.subcard > p 
+{
+	font-weight: 900;
+	margin: 20px 0;
+
+}
+.subcard > button 
+{
+	width: 230px;
+	background: #f64b3c;
+	font-size: 25px;
+	color: white;
+	border-radius: 25px;
+	padding: 5px 0;
+	margin-bottom: 50px;
+	transition: 0.5s;
+	border: transparent;
+} 
+
+.subcard > button:hover
+{
+	color:#f64b3c;
+	background:white ;
+	border: 1px solid #f64b3c;
+}
+
+.section7
+{	width: 100%;
+
+	background: url('IMAGES//bg2.png');
+	background-size: 100% 100%;
+	text-align: center;
+	padding: 350px 0;
+	position: relative;
+}
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    padding: 250px 0;
+    background-color: rgb(242, 89, 73, 0.6);
+    z-index: 1;
+}
+
+
+.overlay > h3
+{
+	color: white;
+	height: auto;
+	width: 40%;
+	margin: auto;
+	text-align: center;
+	margin-bottom: 50px;
+	
+}
+
+.overlay > h1
+{
+	color: white;
+	height: auto;
+	width: 40%;
+	margin: auto;
+	text-align: center;
+}
+
+/* section 8 start */
+.section8
+{ width: 100%;
+	background: #f6eedf;
+	color:#f64b3c ;
+	font-family: Archivo;
+	text-align: center;
+	padding: 200px 0;
+	
+}
+
+.section8 > h1
+{
+	font-size: 75px;
+	font-weight: bold;
+}
+.section8 > p
+{
+	font-size: 30px;
+	font-weight: bold;
+	width: 60%;
+	margin: auto;
+}
+
+.section8 .inputtext
+{
+	padding: 10px 400px  10px 20px;
+	border-radius: 25px 0 0 25px;
+	border: transparent;
+}
+
+.section8 .inputsubmit
+{
+	padding: 10px 20px  10px 20px;
+	border-radius: 0  25px 25px 0;
+	border: 0.5px solid #f64b3c;
+	background: #f64b3c;
+	color: white;
+}
+
+footer 
+{
+	background: black;
+	width: 105%;
+	color: white;
+  font-family: Archivo;
+	padding: 150px 20px;	
+}
+
+footer .f1 > a ,footer .f2 > a ,footer .f3 > a ,footer .f4 > a 
+{
+	text-decoration: none;
+	color: white;
+	font-family: Archivo;
+}
+
+
+
+footer > .f1 >p
+{
+	margin-top: 10px;
+	width: 50%;
+}
+footer > .f1 > .social> a > i
+{
+	color: white;
+	padding-left: 10px;
+	font-size: 20px;
+}
+
+footer > .f1 > .social> a > i:hover
+{
+	color: red;
+}
+
+footer > .f2 > a > p,
+footer > .f3 > a > p,
+footer > .f4 > a > p
+{
+	margin-top: -10px;
+}
+
+.h3
+{
+	margin-bottom: 20px;
+}
+
+footer a:hover
+{
+	color: red;
+}

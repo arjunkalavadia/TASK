@@ -1,0 +1,97 @@
+@media only screen and (min-width:300px) and (max-width: 520px)
+{
+	.content
+{
+	width:100%;
+	margin-left: 50px;
+	padding-top: 50px;
+	
+}
+
+.smart-web
+{
+	font-size: 50px;
+}
+
+.text1
+{
+	font-size: 16px;
+}
+
+/*section 2 start*/
+
+.section2-left > img
+{
+	height: 400px;
+	margin: 50px 50px;
+}
+
+.section2-right 
+{	
+	padding: 50px 20px;
+
+}
+
+.section2-right > h1
+{
+	font-size: 50px;
+	font-weight: 900;
+	margin-left: 20px;
+}
+
+.section2-right > p
+{
+	font-size: 16px;
+	font-weight: 400;
+	padding: 10px 10px;
+}
+
+
+/*section 7 start*/
+.section7
+{
+	height: 500px;
+	background: url(images/video-one-bg.jpg);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	text-align: center;
+	padding: 50px 0;
+
+}
+
+.section7 > p 
+{
+	color: white;
+	font-size: 15px;
+	font-weight: 600;
+
+}
+.section7 > h1 
+{
+   font-size: 40px;
+   color: white;
+   font-weight: 600;
+
+}
+
+.Free_Consultation2
+{
+
+	
+	background: #fc653c;
+	font-size: 15px;
+	color: white;
+	border-radius: 25px;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 150px;
+	transition: 0.5s;
+}
+.Free_Consultation2:hover
+{
+	color:#f64b3c;
+	background:white ;
+
+}
+}

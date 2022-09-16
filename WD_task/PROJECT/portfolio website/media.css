@@ -1,0 +1,144 @@
+
+@media only screen and (min-width:300px) and (max-width: 520px)
+{
+	.navbar
+	{
+		padding-left: 0px;
+		
+	}
+
+	.container-fluid
+	{
+		font-size: 20px;
+	}
+/*====================================================================*/
+.s1d1 > .hello
+
+{   margin-top: 50px;
+	font-size:50px;
+}
+
+.s1d1 > .arjun
+
+{ 
+	font-size:90px;
+}
+  
+.s1d1 > p
+{
+	font-size: 25px;
+}
+
+.s1d2
+
+{/*
+	background: blue;*/
+
+}
+
+.my-photo
+
+{
+	margin-left: 40px;
+}
+
+.social
+
+{
+	color: white;
+	font-size: 50px;
+	margin-left: 30px;
+}
+
+.section-2 > .service-provide
+{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+
+
+/*card start*/
+#card
+{	width: 100%;
+	
+	margin-top: 20px;
+	padding-bottom: 50px;
+}
+
+.card1
+
+{
+	background: rgba(0, 0, 0, 0.1);
+	margin: 30px 40px;
+
+
+}
+
+
+.card2
+{
+	background:rgba(0, 0, 0, 0.1) ;
+	margin: 30px 40px;
+}
+
+.card3
+{
+	background: rgba(0, 0, 0, 0.1);
+	margin: 30px 40px;
+}
+
+.s4card1
+
+{
+	
+	margin: 30px 40px;
+
+
+}
+
+
+.s4card2
+{
+	
+	margin: 30px 40px;
+}
+
+.s4card3
+{
+	
+	margin: 30px 40px;
+}
+
+.progess-bar-1
+{
+	margin-left: 45px;
+	margin-bottom: 45px;
+}
+
+}
+
+
+@media only screen and (max-width:750px)
+{
+  .section5 .inputtext
+{
+  padding: 10px 100px  10px 20px;
+  border-radius: 25px 25px 25px 25px;
+  
+}
+
+.section5 .inputsubmit
+{
+  padding: 10px 20px  10px 20px;
+  border-radius: 25px 25px 25px 25px;
+ 
+}
+
+.social1 
+{
+	text-decoration: none;
+   color: white;
+	font-size: 15px;
+
+}

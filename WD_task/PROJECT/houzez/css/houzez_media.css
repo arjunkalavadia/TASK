@@ -1,0 +1,2448 @@
+@media only screen and (min-width: 400px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+    .header1 {
+        height: auto width: 100%;
+        background: transparent;
+        display: flex;
+        flex-wrap: wrap;
+        padding-right: 2px;
+        padding-left: 10px;
+    }
+
+    .header1 .logo {
+        height: 100%;
+        width: 25%;
+        background: transparent;
+        padding-left: 180px;
+        padding-top: 33px;
+        display: none;
+    }
+
+
+
+    .header1 .about {
+        height: auto;
+        width: 100%;
+        /* background-color: rgb(218, 132, 20); */
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        color: #004274;
+    }
+
+
+    .header1 .call {
+        height: 100%;
+        width: 33.33%;
+        /* background-color: rgb(99, 218, 20); */
+        display: flex;
+
+    }
+
+
+    .header1 .location {
+        height: 100%;
+        width: 33.33%;
+        /* background-color: rgb(20, 139, 218); */
+        display: flex;
+    }
+
+    .header1 .time {
+        height: 100%;
+        width: 33.33%;
+        /* background-color: rgb(11, 13, 15); */
+        display: flex;
+
+    }
+
+
+    .header1 .social {
+        height: 100%;
+        width: 25%;
+        display: flex;
+        display: none;
+    }
+
+
+    .header1 .social i {
+        padding-left: -10px;
+        font-size: 18px;
+    }
+
+    .icon {
+        height: 100%;
+        width: 30%;
+        padding-top: 40px;
+
+
+
+
+    }
+
+    .text {
+        height: 100%;
+        width: 70%;
+        /* background-color: rgb(20, 50, 218); */
+        text-align: left;
+        padding-top: 25px;
+        font-size: 10px;
+    }
+
+
+    .text a {
+        color: #004274;
+
+        text-decoration: none;
+        font-size: 10px;
+    }
+
+    .icon2 {
+        padding-right: 10px;
+        padding-top: 35px;
+
+
+
+
+    }
+
+    .social a {
+        color: #004274;
+    }
+
+
+    .social a:hover {
+        color: red;
+    }
+
+
+
+    .header2 {
+        background-color: #004274;
+        height: 55px;
+        width: 100%;
+        padding-top: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        display: block;
+    }
+
+    .header2 .h2-icon-left {
+        /* margin-left: 20px;
+        margin-top: 8px; */
+        font-size: 18px;
+    }
+
+
+    .header2 .h2-image {
+        margin-left: 180px;
+        margin-top: -23px;
+    }
+
+    .header2 .h2-icon-right {
+        margin-left: 460px;
+        margin-top: -23px;
+        font-size: 18px;
+    }
+
+
+
+    .nav {
+        display: none;
+    }
+
+
+    /* ========================== header 3 ========================= */
+
+    .header3 {
+        height: 700px;
+        width: 100%;
+        background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/03/206-1.jpg');
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        padding-top: 230px;
+        padding-left: 120px;
+
+
+
+    }
+
+    .header3-box {
+        height: 120px;
+        width: 350px;
+        background-color: white;
+        padding-left: 20px;
+        padding-top: 0px;
+        border-radius: 20px;
+        box-shadow: 0 0 10px;
+    }
+
+
+    .header3-box p a {
+        text-decoration: none;
+        color: black;
+        font-size: 15px;
+    }
+
+    .header3-box p a:hover {
+        color: blue;
+    }
+
+    /* ===header 6 start ======  */
+
+    .header6 {
+        height: auto;
+        width: 100%;
+        padding-top: 60px;
+        padding-left: 150px;
+
+        background-color: #f5f5e9;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .h6-1 {
+        height: 90%;
+        width: 100%;
+        background-color: white;
+        margin-bottom: 20px;
+
+    }
+
+    .h6-2 {
+        height: 90%;
+        width: 100%;
+        background-color: white;
+        margin-bottom: 20px;
+
+    }
+
+
+    .h6-3 {
+        height: 90%;
+        width: 100%;
+        background-color: white;
+        margin-bottom: 20px;
+        margin-right: 80px;
+    }
+
+    .h6-1up {
+        margin-left: 33px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        transition: 0.8s;
+    }
+
+    .header9 {
+        height: auto;
+        width: 100%;
+        background-color: white;
+        margin-top: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .h9-1 {
+        height: auto;
+        width: 100%;
+        background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/chicago.jpg');
+        background-size: 100% 100%;
+        margin: 40px 60px;
+        filter: brightness(70%);
+        text-align: center;
+        padding-top: 100px;
+
+
+    }
+
+    .h9-1:hover.h9-1,
+    .h9-2:hover.h9-2,
+    .h9-3:hover.h9-3,
+    .h9-4:hover.h9-4 {
+        filter: brightness(100%);
+    }
+
+
+    .h9-2 {
+        height: auto;
+        width: 100%;
+        background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/los-angeles.jpg');
+        background-size: 100% 100%;
+        margin: 40px 60px;
+        filter: brightness(70%);
+        text-align: center;
+        padding-top: 100px;
+    }
+
+    .h9-3 {
+        height: auto;
+        width: 100%;
+        background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/miami-beach.jpg');
+        background-size: 100% 100%;
+        margin: 40px 60px;
+        filter: brightness(70%);
+        text-align: center;
+        padding-top: 100px;
+    }
+
+    .h9-4 {
+        height: auto;
+        width: 100%;
+        background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/new-york.jpg');
+        background-size: 100% 100%;
+        filter: brightness(70%);
+        text-align: center;
+        margin: 40px 60px;
+        padding-top: 100px;
+    }
+
+    .h10 {
+        height: auto;
+        width: 100%;
+        background-color: #004274;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .h10-1 {
+        height: auto;
+        width: 50%;
+
+
+    }
+
+    .h10-2 {
+        height: auto;
+        width: 50%;
+
+    }
+
+    .h10-3 {
+        height: 100%;
+        width: 100%;
+        text-align: center;
+
+    }
+
+    .P-1 {
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        margin-left: -90px;
+    }
+
+    .P-2 {
+        text-align: center;
+        padding-left: 50px;
+    }
+
+
+
+    .P-2 a {
+        text-decoration: none;
+        color: white;
+        font-size: 18px;
+
+    }
+
+    .P-3 {
+        color: white;
+        font-size: 18px;
+        padding-left: 20px;
+    }
+
+    .email {
+        margin-right: 50px;
+
+        padding: 20px 100px 20px 10px;
+        font-size: 25px;
+    }
+
+
+    .submit {
+        margin-left: 150px;
+        background-color: #00aeff;
+        color: white;
+        font-size: 30px;
+        padding: 10px 30px;
+        border-radius: 10px;
+    }
+
+
+    .h11 {
+        height: 100px;
+        width: 100%;
+        background-color: #004274;
+        text-align: center;
+
+    }
+
+
+
+
+
+
+
+    /* =========================================576 media start =============================== */
+
+    @media only screen and (min-width: 576px) {
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .header1 {
+            height: auto;
+            width: 100%;
+            background: transparent;
+            display: flex;
+            flex-wrap: wrap;
+            /* padding-left: 10px; */
+            padding-right: 2px;
+            padding-left: 10px;
+        }
+
+        .header1 .logo {
+            height: 100%;
+            width: 25%;
+            background: transparent;
+            padding-left: 180px;
+            padding-top: 33px;
+            display: none;
+        }
+
+
+
+        .header1 .about {
+            height: auto;
+            width: 100%;
+            /* background-color: rgb(218, 132, 20); */
+            display: flex;
+            flex-wrap: wrap;
+            text-align: center;
+            color: #004274;
+        }
+
+
+        .header1 .call {
+            height: 100%;
+            width: 33.33%;
+            /* background-color: rgb(99, 218, 20); */
+            display: flex;
+
+        }
+
+
+        .header1 .location {
+            height: 100%;
+            width: 33.33%;
+            /* background-color: rgb(20, 139, 218); */
+            display: flex;
+        }
+
+        .header1 .time {
+            height: 100%;
+            width: 33.33%;
+            /* background-color: rgb(11, 13, 15); */
+            display: flex;
+
+        }
+
+
+        .header1 .social {
+            height: 100%;
+            width: 25%;
+            display: flex;
+            display: none;
+        }
+
+
+        .header1 .social i {
+            padding-left: -10px;
+            font-size: 18px;
+        }
+
+        .icon {
+            height: 100%;
+            width: 30%;
+            /* background-color: rgb(218, 20, 136); */
+            /* text-align: center; */
+            padding-top: 40px;
+
+
+
+        }
+
+        .text {
+            height: 100%;
+            width: 70%;
+            /* background-color: rgb(20, 50, 218); */
+            text-align: left;
+            padding-top: 25px;
+            font-size: 10px;
+        }
+
+
+        .text a {
+            color: #004274;
+
+            text-decoration: none;
+            font-size: 10px;
+        }
+
+        .icon2 {
+            padding-right: 10px;
+            padding-top: 35px;
+
+
+
+
+        }
+
+        .social a {
+            color: #004274;
+        }
+
+
+        .social a:hover {
+            color: red;
+        }
+
+        /* ===================================================================================== */
+        .header2 {
+            background-color: #004274;
+            height: 55px;
+            width: 100%;
+            padding-top: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            display: block;
+        }
+
+        .header2 .h2-icon-left {
+            /* margin-left: 20px;
+    margin-top: 8px; */
+            font-size: 18px;
+        }
+
+
+        .header2 .h2-image {
+            margin-left: 300px;
+            margin-top: -23px;
+        }
+
+        .header2 .h2-icon-right {
+            margin-left: 580px;
+            margin-top: -23px;
+            font-size: 18px;
+        }
+
+        .nav {
+            display: none;
+        }
+
+        .header3 {
+            height: 700px;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/03/206-1.jpg');
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            padding-top: 230px;
+            padding-left: 150px;
+
+
+
+        }
+
+        .header3-box {
+            height: 120px;
+            width: 350px;
+            background-color: white;
+            padding-left: 20px;
+            padding-top: 0px;
+            border-radius: 20px;
+            box-shadow: 0 0 10px;
+        }
+
+
+        .header3-box p a {
+            text-decoration: none;
+            color: black;
+            font-size: 15px;
+        }
+
+        .header3-box p a:hover {
+            color: blue;
+        }
+
+        /* ===header 6 start ======  */
+
+        .header6 {
+            height: auto;
+            width: 100%;
+            padding-top: 100px;
+            padding-left: 80px;
+
+            background-color: #f5f5e9;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .h6-1 {
+            height: 90%;
+            width: 100%;
+            background-color: white;
+            margin-bottom: 20px;
+
+        }
+
+        .h6-2 {
+            height: 90%;
+            width: 100%;
+            background-color: white;
+            margin-bottom: 20px;
+
+        }
+
+
+        .h6-3 {
+            height: 90%;
+            width: 100%;
+            background-color: white;
+            margin-bottom: 20px;
+
+        }
+
+        .h6-1up {
+            margin-left: 33px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            transition: 0.8s;
+        }
+
+        .header9 {
+            height: auto;
+            width: 100%;
+            background-color: white;
+            margin-top: 30px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .h9-1 {
+            height: auto;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/chicago.jpg');
+            background-size: 100% 100%;
+            margin: 40px 100px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+
+
+        }
+
+        .h9-1:hover.h9-1,
+        .h9-2:hover.h9-2,
+        .h9-3:hover.h9-3,
+        .h9-4:hover.h9-4 {
+            filter: brightness(100%);
+        }
+
+
+        .h9-2 {
+            height: auto;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/los-angeles.jpg');
+            background-size: 100% 100%;
+            margin: 40px 100px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .h9-3 {
+            height: auto;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/miami-beach.jpg');
+            background-size: 100% 100%;
+            margin: 40px 100px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .h9-4 {
+            height: auto;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/new-york.jpg');
+            background-size: 100% 100%;
+            filter: brightness(70%);
+            text-align: center;
+            margin: 40px 100px;
+            padding-top: 100px;
+        }
+
+        .h10 {
+            height: auto;
+            width: 100%;
+            background-color: #004274;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .h10-1 {
+            height: auto;
+            width: 50%;
+
+
+        }
+
+        .h10-2 {
+            height: auto;
+            width: 50%;
+
+        }
+
+        .h10-3 {
+            height: 100%;
+            width: 100%;
+
+        }
+
+        .P-1 {
+            text-align: center;
+            color: white;
+            font-size: 30px;
+            margin-left: -90px;
+        }
+
+        .P-2 {
+            text-align: left;
+            padding-left: 50px;
+        }
+
+
+
+        .P-2 a {
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+
+        }
+
+        .P-3 {
+            color: white;
+            font-size: 18px;
+            padding-left: 20px;
+            text-align: center;
+        }
+
+        .email {
+            margin-left: 280px;
+
+            padding: 20px 100px 20px 10px;
+            font-size: 25px;
+        }
+
+
+        .submit {
+            margin-left: 410px;
+            background-color: #00aeff;
+            color: white;
+            font-size: 30px;
+            padding: 10px 30px;
+            border-radius: 10px;
+        }
+
+
+        .h11 {
+            height: 100px;
+            width: 100%;
+            background-color: #004274;
+            text-align: center;
+
+        }
+
+    }
+
+
+
+
+
+
+    /* =================================================================768  start =============================== */
+    @media only screen and (min-width: 768px) {
+
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .header1 {
+            height: auto;
+            width: 100%;
+            background: transparent;
+            display: flex;
+            flex-wrap: wrap;
+            /* padding-left: 10px; */
+            padding-right: 1px;
+            padding-left: 30px;
+        }
+
+        .header1 .logo {
+            height: 100%;
+            width: 100%;
+            background: transparent;
+            padding-left: 300px;
+            /* padding-left: 180px; */
+            padding-top: 33px;
+            display: none;
+        }
+
+
+
+        .header1 .about {
+            height: auto;
+            width: 100%;
+            /* background-color: rgb(218, 132, 20); */
+            display: flex;
+            text-align: center;
+            color: #004274;
+        }
+
+
+        .header1 .call {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(99, 218, 20); */
+            display: flex;
+        }
+
+
+        .header1 .location {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(20, 139, 218); */
+            display: flex;
+        }
+
+        .header1 .time {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(11, 13, 15); */
+            display: flex;
+
+        }
+
+
+        .header1 .social {
+            height: 100%;
+            width: 25%;
+            display: flex;
+        }
+
+
+        .header1 .social i {
+            padding-left: -10px;
+            font-size: 18px;
+        }
+
+        .icon {
+            height: 100%;
+            width: 30%;
+            /* background-color: rgb(218, 20, 136); */
+            /* text-align: center; */
+            padding-top: 40px;
+
+
+
+        }
+
+        .text {
+            height: 100%;
+            width: 70%;
+            /* background-color: rgb(20, 50, 218); */
+            text-align: left;
+            padding-top: 15px;
+            font-size: 14px;
+        }
+
+
+        .text a {
+            color: #004274;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .icon2 {
+            padding-right: 10px;
+            padding-top: 40px;
+
+
+
+
+        }
+
+        .social a {
+            color: #004274;
+        }
+
+
+        .social a:hover {
+            color: red;
+        }
+
+        /* ================================================================================================ */
+
+
+        .header2 {
+            background-color: #004274;
+            height: 55px;
+            width: 100%;
+            padding-top: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            display: block;
+        }
+
+        .header2 .h2-icon-left {
+            /* margin-left: 20px;
+    margin-top: 8px; */
+            font-size: 18px;
+        }
+
+
+        .header2 .h2-image {
+            margin-left: 330px;
+            margin-top: -23px;
+        }
+
+        .header2 .h2-icon-right {
+            margin-left: 750px;
+            margin-top: -23px;
+            font-size: 18px;
+        }
+
+
+        /* =====================nav start ====================== */
+        .nav {
+            display: none;
+        }
+
+        .header3 {
+            height: 700px;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/03/206-1.jpg');
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            padding-top: 230px;
+            padding-left: 220px;
+
+
+
+        }
+
+        .header3-box {
+            height: 170px;
+            width: 500px;
+            background-color: white;
+            padding-left: 30px;
+            padding-top: 10px;
+            border-radius: 20px;
+            box-shadow: 0 0 10px;
+        }
+
+
+        .header3-box p a {
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+        }
+
+        .header3-box p a:hover {
+            color: blue;
+        }
+
+
+        /* ===header 6 start ======  */
+
+        .header6 {
+            height: auto;
+            width: 100%;
+            padding-top: 100px;
+            padding-left: 100px;
+
+            background-color: #f5f5e9;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .h6-1 {
+            height: 90%;
+            width: 100%;
+            background-color: white;
+            margin-bottom: 20px;
+
+        }
+
+        .h6-2 {
+            height: 90%;
+            width: 100%;
+            background-color: white;
+            margin-bottom: 20px;
+
+        }
+
+
+        .h6-3 {
+            height: 90%;
+            width: 100%;
+            background-color: white;
+            margin-bottom: 20px;
+
+        }
+
+        .h6-1up {
+            margin-left: 33px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            transition: 0.8s;
+        }
+
+        .header9 {
+            height: auto;
+            width: 100%;
+            background-color: white;
+            margin-top: 30px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .h9-1 {
+            height: auto;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/chicago.jpg');
+            background-size: 100% 100%;
+            margin: 40px 100px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+
+
+        }
+
+        .h9-1:hover.h9-1,
+        .h9-2:hover.h9-2,
+        .h9-3:hover.h9-3,
+        .h9-4:hover.h9-4 {
+            filter: brightness(100%);
+        }
+
+
+        .h9-2 {
+            height: auto;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/los-angeles.jpg');
+            background-size: 100% 100%;
+            margin: 40px 100px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .h9-3 {
+            height: auto;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/miami-beach.jpg');
+            background-size: 100% 100%;
+            margin: 40px 100px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .h9-4 {
+            height: auto;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/new-york.jpg');
+            background-size: 100% 100%;
+            filter: brightness(70%);
+            text-align: center;
+            margin: 40px 100px;
+            padding-top: 100px;
+        }
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /* =========================================================================922 start =============================== */
+
+
+    @media only screen and (min-width: 992px) {
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .header1 {
+            height: auto;
+            width: 100%;
+            background: transparent;
+            display: flex;
+            flex-wrap: wrap;
+            /* padding-left: 10px; */
+            padding-right: 1px;
+            padding-left: 130px;
+        }
+
+        .header1 .logo {
+            height: 100%;
+            width: 100%;
+            background: transparent;
+            padding-left: 300px;
+            /* padding-left: 180px; */
+            padding-top: 33px;
+            display: block;
+        }
+
+
+
+        .header1 .about {
+            height: auto;
+            width: 100%;
+            /* background-color: rgb(218, 132, 20); */
+            display: flex;
+            text-align: center;
+            color: #004274;
+        }
+
+
+        .header1 .call {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(99, 218, 20); */
+            display: flex;
+        }
+
+
+        .header1 .location {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(20, 139, 218); */
+            display: flex;
+        }
+
+        .header1 .time {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(11, 13, 15); */
+            display: flex;
+
+        }
+
+
+        .header1 .social {
+            height: 100%;
+            width: 25%;
+            display: flex;
+        }
+
+
+        .header1 .social i {
+            padding-left: -10px;
+            font-size: 18px;
+        }
+
+        .icon {
+            height: 100%;
+            width: 30%;
+            /* background-color: rgb(218, 20, 136); */
+            /* text-align: center; */
+            padding-top: 40px;
+
+
+
+        }
+
+        .text {
+            height: 100%;
+            width: 70%;
+            /* background-color: rgb(20, 50, 218); */
+            text-align: left;
+            padding-top: 15px;
+            font-size: 14px;
+        }
+
+
+        .text a {
+            color: #004274;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .icon2 {
+            padding-right: 10px;
+            padding-top: 40px;
+
+
+
+
+        }
+
+        .social a {
+            color: #004274;
+        }
+
+
+        .social a:hover {
+            color: red;
+        }
+
+        /* =========================================================================== */
+        .header2 {
+            display: none;
+        }
+
+        /* ============================== nav start ==================== */
+
+        .nav {
+            background-color: #004274;
+            height: auto;
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+
+        }
+
+        .nav .nav-left {
+            height: 100%;
+            width: 100%;
+            text-align: center;
+            padding-top: 20px;
+        }
+
+
+        .main-ul {
+            margin: 0;
+            padding: 0;
+
+        }
+
+
+        .main-li {
+            list-style: none;
+            display: inline;
+            padding-left: 50px;
+            position: relative;
+
+
+
+        }
+
+        .sub-ul {
+            margin: 0;
+            padding: 20px;
+            display: none;
+            position: absolute;
+            left: 50px;
+            top: 38px;
+            background-color: white;
+            width: 150px;
+            text-align: center;
+            transition: 0.25s;
+        }
+
+
+        .sub-li {
+            list-style: none;
+            padding-bottom: 20px;
+        }
+
+
+        .main-li:hover .sub-ul {
+            display: block;
+        }
+
+        .main-li-a {
+            text-decoration: none;
+            color: white;
+            font-weight: 600;
+            font-size: 14px;
+            padding: 20px 0;
+            padding-left: 30px;
+            border-left: 1px solid transparent;
+            transition: 0.5s;
+        }
+
+        .main-li-a:hover {
+            color: blue;
+
+
+        }
+
+        .sub-li a {
+            text-decoration: none;
+            color: black;
+            font-size: 15px;
+            padding: 10px;
+            transition: 0.8s;
+        }
+
+        .sub-li a:hover {
+
+            color: blue;
+        }
+
+        /* ====================================right nave start=========================================== */
+
+        .nav .nav-right {
+            height: 100%;
+            width: 100%;
+            background-color: transparent;
+            text-align: center;
+
+            padding-bottom: 20px;
+        }
+
+        .nav-right-ul {
+            margin: 0;
+            padding: 0;
+        }
+
+        .nav-right-li {
+            list-style: none;
+            display: inline;
+
+        }
+
+        .nav-right-li-a {
+            text-decoration: none;
+            color: white;
+            padding: 10px 10px;
+            font-weight: 600;
+            transition: 0.5s;
+        }
+
+        .nav-right-li-a1 {
+            text-decoration: none;
+            color: white;
+            padding: 10px 15px;
+            font-weight: 600;
+            transition: 0.5s;
+            background-color: #00aeff;
+            border-radius: 10px;
+        }
+
+        .nav-right-li-a:hover {
+            color: blue;
+
+        }
+
+        .nav-right-li-a1:hover {
+            color: blue;
+            opacity: 0.8;
+        }
+
+
+        .header3 {
+            height: 700px;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/03/206-1.jpg');
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            padding-top: 230px;
+            padding-left: 220px;
+
+
+
+        }
+
+        .header3-box {
+            height: 170px;
+            width: 500px;
+            background-color: white;
+            padding-left: 30px;
+            padding-top: 10px;
+            border-radius: 20px;
+            box-shadow: 0 0 10px;
+        }
+
+
+        .header3-box p a {
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+        }
+
+        .header3-box p a:hover {
+            color: blue;
+        }
+
+
+        /* ===header 6 start ======  */
+
+        .header6 {
+            height: auto;
+            width: 100%;
+            padding-top: 100px;
+            padding-left: 150px;
+
+            background-color: #f5f5e9;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .h6-1 {
+            height: 90%;
+            width: 100%;
+            background-color: white;
+            margin-bottom: 20px;
+
+        }
+
+        .h6-2 {
+            height: 90%;
+            width: 100%;
+            background-color: white;
+            margin-bottom: 20px;
+
+        }
+
+
+        .h6-3 {
+            height: 90%;
+            width: 100%;
+            background-color: white;
+            margin-bottom: 20px;
+
+        }
+
+        .h6-1up {
+            margin-left: 33px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            transition: 0.8s;
+        }
+
+        .header9 {
+            height: auto;
+            width: 100%;
+            background-color: white;
+            margin-top: 50px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .h9-1 {
+            height: 300px;
+            width: 50%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/chicago.jpg');
+            background-size: 100% 100%;
+            margin-right: 40px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+
+
+        }
+
+        .h9-1:hover.h9-1,
+        .h9-2:hover.h9-2,
+        .h9-3:hover.h9-3,
+        .h9-4:hover.h9-4 {
+            filter: brightness(100%);
+        }
+
+
+        .h9-2 {
+            height: 300px;
+            width: 50%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/los-angeles.jpg');
+            background-size: 100% 100%;
+            margin-right: 40px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .h9-3 {
+            height: 300px;
+            width: 50%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/miami-beach.jpg');
+            background-size: 100% 100%;
+            margin-right: 40px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .h9-4 {
+            height: 300px;
+            width: 50%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/new-york.jpg');
+            background-size: 100% 100%;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+            margin-right: 40px;
+        }
+
+
+    }
+
+
+
+
+
+    /* ========================================================= 1200 start ============================== */
+
+
+
+    @media only screen and (min-width: 1200px) {
+
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .header1 {
+            height: 110px;
+            width: 100%;
+            background: transparent;
+            display: flex;
+            /* padding-left: 10px; */
+            padding-right: 100px;
+        }
+
+        .header1 .logo {
+            height: 100%;
+            width: 25%;
+            background: transparent;
+            padding-left: 180px;
+            padding-top: 33px;
+            display: block;
+        }
+
+
+
+        .header1 .about {
+            height: 100%;
+            width: 75%;
+            /* background-color: rgb(218, 132, 20); */
+            display: flex;
+            text-align: center;
+            color: #004274;
+        }
+
+
+        .header1 .call {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(99, 218, 20); */
+            display: flex;
+        }
+
+
+        .header1 .location {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(20, 139, 218); */
+            display: flex;
+        }
+
+        .header1 .time {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(11, 13, 15); */
+            display: flex;
+
+        }
+
+
+        .header1 .social {
+            height: 100%;
+            width: 25%;
+            display: flex;
+        }
+
+
+        .header1 .social i {
+            padding-left: -10px;
+            font-size: 18px;
+        }
+
+        .icon {
+            height: 100%;
+            width: 30%;
+            /* background-color: rgb(218, 20, 136); */
+            /* text-align: center; */
+            padding-top: 40px;
+
+
+
+        }
+
+        .text {
+            height: 100%;
+            width: 70%;
+            /* background-color: rgb(20, 50, 218); */
+            text-align: left;
+            padding-top: 15px;
+            font-size: 14px;
+        }
+
+
+        .text a {
+            color: #004274;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .icon2 {
+            padding-right: 10px;
+            padding-top: 40px;
+
+
+
+
+        }
+
+        .social a {
+            color: #004274;
+        }
+
+
+        .social a:hover {
+            color: red;
+        }
+
+        .header2 {
+
+            display: none;
+        }
+
+        /* ============================== nav start ==================== */
+
+        .nav {
+            background-color: #004274;
+            height: auto;
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .nav .nav-left {
+            height: 100%;
+            width: 100%;
+            text-align: center;
+            padding-top: 20px;
+        }
+
+
+        .main-ul {
+            margin: 0;
+            padding: 0;
+
+        }
+
+
+        .main-li {
+            list-style: none;
+            display: inline;
+            padding-left: 50px;
+            position: relative;
+
+
+
+        }
+
+        .sub-ul {
+            margin: 0;
+            padding: 20px;
+            display: none;
+            position: absolute;
+            left: 50px;
+            top: 38px;
+            background-color: white;
+            width: 150px;
+            text-align: center;
+            transition: 0.25s;
+        }
+
+
+        .sub-li {
+            list-style: none;
+            padding-bottom: 20px;
+        }
+
+
+        .main-li:hover .sub-ul {
+            display: block;
+        }
+
+        .main-li-a {
+            text-decoration: none;
+            color: white;
+            font-weight: 600;
+            font-size: 14px;
+            padding: 20px 0px;
+            padding-left: 30px;
+            border-left: 1px solid transparent;
+            transition: 0.5s;
+        }
+
+        .main-li-a:hover {
+            color: blue;
+
+
+        }
+
+        .sub-li a {
+            text-decoration: none;
+            color: black;
+            font-size: 15px;
+            padding: 10px;
+            transition: 0.8s;
+        }
+
+        .sub-li a:hover {
+
+            color: blue;
+        }
+
+        /* ====================================right nave start=========================================== */
+
+        .nav .nav-right {
+            height: 100%;
+            width: 100%;
+            background-color: transparent;
+            text-align: center;
+
+            padding-bottom: 20px;
+        }
+
+        .nav-right-ul {
+            margin: 0;
+            padding: 0;
+        }
+
+        .nav-right-li {
+            list-style: none;
+            display: inline;
+
+        }
+
+        .nav-right-li-a {
+            text-decoration: none;
+            color: white;
+            padding: 10px 10px;
+            font-weight: 600;
+            transition: 0.5s;
+        }
+
+        .nav-right-li-a1 {
+            text-decoration: none;
+            color: white;
+            padding: 10px 15px;
+            font-weight: 600;
+            transition: 0.5s;
+            background-color: #00aeff;
+            border-radius: 10px;
+        }
+
+        .nav-right-li-a:hover {
+            color: blue;
+
+        }
+
+        .nav-right-li-a1:hover {
+            color: blue;
+            opacity: 0.8;
+        }
+
+        .header3 {
+            height: 700px;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/03/206-1.jpg');
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            padding-top: 230px;
+            padding-left: 220px;
+
+
+
+        }
+
+        .header3-box {
+            height: 170px;
+            width: 500px;
+            background-color: white;
+            padding-left: 30px;
+            padding-top: 10px;
+            border-radius: 20px;
+            box-shadow: 0 0 10px;
+        }
+
+
+        .header3-box p a {
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+        }
+
+        .header3-box p a:hover {
+            color: blue;
+        }
+
+
+        /* ===header 6 start ======  */
+
+        .header6 {
+            height: 750px;
+            width: 100%;
+            padding-top: 100px;
+            padding-left: 250px;
+
+            background-color: #f5f5e9;
+            display: flex;
+        }
+
+        .h6-1 {
+            height: 90%;
+            width: 25%;
+            background-color: white;
+            margin-right: 80px;
+        }
+
+        .h6-2 {
+            height: 90%;
+            width: 25%;
+            background-color: white;
+            margin-right: 80px;
+        }
+
+
+        .h6-3 {
+            height: 90%;
+            width: 25%;
+            background-color: white;
+
+        }
+
+        .h6-1up {
+            margin-left: 33px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            transition: 0.8s;
+        }
+
+        .header9 {
+            height: auto;
+            width: 100%;
+            background-color: white;
+            margin-top: 50px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .h9-1 {
+            height: 300px;
+            width: 50%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/chicago.jpg');
+            background-size: 100% 100%;
+            margin-right: 40px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+
+
+        }
+
+        .h9-1:hover.h9-1,
+        .h9-2:hover.h9-2,
+        .h9-3:hover.h9-3,
+        .h9-4:hover.h9-4 {
+            filter: brightness(100%);
+        }
+
+
+        .h9-2 {
+            height: 300px;
+            width: 50%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/los-angeles.jpg');
+            background-size: 100% 100%;
+            margin-right: 40px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .h9-3 {
+            height: 300px;
+            width: 50%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/miami-beach.jpg');
+            background-size: 100% 100%;
+            margin-right: 40px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .h9-4 {
+            height: 300px;
+            width: 50%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/new-york.jpg');
+            background-size: 100% 100%;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+
+    }
+
+
+
+
+
+
+
+    /* ============================================== 1400 start ===============================================  */
+
+    @media only screen and (min-width: 1400px) {
+
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        .header1 {
+            height: 110px;
+            width: 100%;
+            background: transparent;
+            display: flex;
+            /* padding-left: 10px; */
+            padding-right: 100px;
+        }
+
+        .header1 .logo {
+            height: 100%;
+            width: 25%;
+            background: transparent;
+            padding-left: 180px;
+            padding-top: 33px;
+            display: block;
+        }
+
+
+
+        .header1 .about {
+            height: 100%;
+            width: 75%;
+            /* background-color: rgb(218, 132, 20); */
+            display: flex;
+            text-align: center;
+            color: #004274;
+        }
+
+
+        .header1 .call {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(99, 218, 20); */
+            display: flex;
+        }
+
+
+        .header1 .location {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(20, 139, 218); */
+            display: flex;
+        }
+
+        .header1 .time {
+            height: 100%;
+            width: 25%;
+            /* background-color: rgb(11, 13, 15); */
+            display: flex;
+
+        }
+
+
+        .header1 .social {
+            height: 100%;
+            width: 25%;
+            display: flex;
+        }
+
+
+        .header1 .social i {
+            padding-left: -10px;
+            font-size: 18px;
+        }
+
+        .icon {
+            height: 100%;
+            width: 30%;
+            /* background-color: rgb(218, 20, 136); */
+            /* text-align: center; */
+            padding-top: 40px;
+
+
+
+        }
+
+        .text {
+            height: 100%;
+            width: 70%;
+            /* background-color: rgb(20, 50, 218); */
+            text-align: left;
+            padding-top: 15px;
+            font-size: 14px;
+        }
+
+
+        .text a {
+            color: #004274;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .icon2 {
+            padding-right: 10px;
+            padding-top: 40px;
+
+
+
+
+        }
+
+        .social a {
+            color: #004274;
+        }
+
+
+        .social a:hover {
+            color: red;
+        }
+
+        .header2 {
+            display: none;
+        }
+
+        /* ==========================nav start ======================== */
+        .nav {
+            background-color: #004274;
+            height: 60px;
+            width: 100%;
+            display: flex;
+        }
+
+        .nav .nav-left {
+            height: 100%;
+            width: 60%;
+            padding-left: 90px;
+            padding-top: 20px;
+        }
+
+
+        .main-ul {
+            margin: 0;
+            padding: 0;
+
+        }
+
+
+        .main-li {
+            list-style: none;
+            display: inline;
+            padding-left: 50px;
+            position: relative;
+
+
+
+        }
+
+        .sub-ul {
+            margin: 0;
+            padding: 20px;
+            display: none;
+            position: absolute;
+            left: 50px;
+            top: 38px;
+            background-color: white;
+            width: 150px;
+            text-align: center;
+            transition: 0.25s;
+        }
+
+
+        .sub-li {
+            list-style: none;
+            padding-bottom: 20px;
+        }
+
+
+        .main-li:hover .sub-ul {
+            display: block;
+        }
+
+        .main-li-a {
+            text-decoration: none;
+            color: white;
+            font-weight: 600;
+            font-size: 14px;
+            padding: 20px 0px;
+            padding-left: 30px;
+            border-left: 1px solid gray;
+            transition: 0.5s;
+        }
+
+        .main-li-a:hover {
+            color: blue;
+
+
+        }
+
+        .sub-li a {
+            text-decoration: none;
+            color: black;
+            font-size: 15px;
+            padding: 10px;
+            transition: 0.8s;
+        }
+
+        .sub-li a:hover {
+
+            color: blue;
+        }
+
+        /* ====================================right nave start=========================================== */
+
+        .nav .nav-right {
+            height: 100%;
+            width: 40%;
+            background-color: transparent;
+            padding-left: 150px;
+            padding-top: 23px;
+        }
+
+        .nav-right-ul {
+            margin: 0;
+            padding: 0;
+        }
+
+        .nav-right-li {
+            list-style: none;
+            display: inline;
+
+        }
+
+        .nav-right-li-a {
+            text-decoration: none;
+            color: white;
+            padding: 10px 10px;
+            font-weight: 600;
+            transition: 0.5s;
+        }
+
+        .nav-right-li-a1 {
+            text-decoration: none;
+            color: white;
+            padding: 10px 15px;
+            font-weight: 600;
+            transition: 0.5s;
+            background-color: #00aeff;
+            border-radius: 10px;
+        }
+
+        .nav-right-li-a:hover {
+            color: blue;
+
+        }
+
+        .nav-right-li-a1:hover {
+            color: blue;
+            opacity: 0.8;
+
+
+        }
+
+        .header3 {
+            height: 700px;
+            width: 100%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/03/206-1.jpg');
+            background-size: 100% 100%;
+            background-repeat: no-repeat;
+            padding-top: 230px;
+            padding-left: 220px;
+
+
+
+        }
+
+        .header3-box {
+            height: 170px;
+            width: 500px;
+            background-color: white;
+            padding-left: 30px;
+            padding-top: 10px;
+            border-radius: 20px;
+            box-shadow: 0 0 10px;
+        }
+
+
+        .header3-box p a {
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+        }
+
+        .header3-box p a:hover {
+            color: blue;
+        }
+
+        /* ===header 6 start ======  */
+
+        .header6 {
+            height: 750px;
+            width: 100%;
+            padding-top: 100px;
+            padding-left: 310px;
+
+            background-color: #f5f5e9;
+            display: flex;
+        }
+
+        .h6-1 {
+            height: 90%;
+            width: 25%;
+            background-color: white;
+            margin-right: 80px;
+        }
+
+        .h6-2 {
+            height: 90%;
+            width: 25%;
+            background-color: white;
+            margin-right: 80px;
+        }
+
+
+        .h6-3 {
+            height: 90%;
+            width: 25%;
+            background-color: white;
+
+        }
+
+        .h6-1up {
+            margin-left: 33px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            transition: 0.8s;
+        }
+
+
+        .header9 {
+            height: 400px;
+            width: 100%;
+            background-color: white;
+            margin-top: 50px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+        }
+
+        .h9-1 {
+            height: 300px;
+            width: 16%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/chicago.jpg');
+            background-size: 100% 100%;
+            margin-right: 40px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+
+
+        }
+
+        .h9-1:hover.h9-1,
+        .h9-2:hover.h9-2,
+        .h9-3:hover.h9-3,
+        .h9-4:hover.h9-4 {
+            filter: brightness(100%);
+        }
+
+
+        .h9-2 {
+            height: 300px;
+            width: 16%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/los-angeles.jpg');
+            background-size: 100% 100%;
+            margin-right: 40px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .h9-3 {
+            height: 300px;
+            width: 16%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/miami-beach.jpg');
+            background-size: 100% 100%;
+            margin-right: 40px;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .h9-4 {
+            height: 300px;
+            width: 16%;
+            background: url('https://432351-1355223-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2016/03/new-york.jpg');
+            background-size: 100% 100%;
+            filter: brightness(70%);
+            text-align: center;
+            padding-top: 100px;
+        }
+
+
+        .h10 {
+            height: 300px;
+            width: 100%;
+            background-color: #004274;
+            display: flex;
+        }
+
+        .h10-1 {
+            height: 100%;
+            width: 25%;
+            /* border: 1px solid white; */
+
+        }
+
+        .h10-2 {
+            height: 100%;
+            width: 25%;
+            /* border: 1px solid white; */
+        }
+
+        .h10-3 {
+            height: 100%;
+            width: 50%;
+
+        }
+
+        .P-1 {
+            text-align: center;
+            color: white;
+            font-size: 30px;
+        }
+
+        .P-2 {
+            text-align: left;
+            padding-left: 180px;
+        }
+
+
+
+        .P-2 a {
+            text-decoration: none;
+            color: white;
+            font-size: 18px;
+
+        }
+
+        .P-3 {
+            color: white;
+            font-size: 18px;
+            padding-left: 20px;
+        }
+
+        .email {
+            margin-left: 20px;
+            padding: 20px 100px 20px 10px;
+            font-size: 25px;
+        }
+
+
+        .submit {
+            margin-left: 20px;
+            background-color: #00aeff;
+            color: white;
+            font-size: 30px;
+            padding: 10px 30px;
+            border-radius: 10px;
+        }
+
+
+        .h11 {
+            height: 100px;
+            width: 100%;
+            background-color: #004274;
+            text-align: center;
+
+        }
+    }

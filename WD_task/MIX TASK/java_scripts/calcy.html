@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+
+<input type="number" name="" id="n11"><br><br>
+<input type="number" name="" id="n12"><br><br>
+<input type="submit" name=""  value="+" onclick="sum()">
+<input type="submit" name=""  value="-" onclick="sub()">
+<input type="submit" name=""  value="*" onclick="multy()">
+<input type="submit" name=""  value="/" onclick="div()">
+<p id="res"></p>
+	 
+</div>
+
+	<script type="text/javascript">
+
+		function sum()
+		 {
+		 	var n1 = document.getElementById('n11').value
+		 	var n2 = document.getElementById('n12').value
+         
+		 		document.getElementById('res').innerHTML = parseInt(n1) + parseInt(n2)
+		 }
+
+
+function sub()
+		{
+			var n1 = document.getElementById('n11').value
+			var n2 = document.getElementById('n12').value
+		
+			document.getElementById('res').innerHTML = parseInt(n1) - parseInt(n2)
+		}
+
+function multy()
+
+		{
+			var n1= document.getElementById('n11').value
+			var n2= document.getElementById('n12').value
+
+			document.getElementById('res').innerHTML = n1*n2
+
+			
+		}
+
+function div()
+
+		{
+			var n1= document.getElementById('n11').value
+			var n2= document.getElementById('n12').value
+
+			document.getElementById('res').innerHTML = n1/n2
+
+			
+		}
+
+
+	</script>
+</body>
+</html>
